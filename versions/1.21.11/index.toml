@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "282612f1ffa7d7576d20e92c353f191cca257dc7962fa29804c17a7eefdd0c5f"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "b5beddbec52a1f74a9b484e06471ed8e83a43e42079ec168f92a336eb9484437"
+
+[[files]]
+file = "icon.png"
+hash = "f2093301ddeae92849c128a7c140572dfb4ff425814d5a3afdb6b366755d1f3e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d2d3b3714284fd2683c121d80bf9662289c9bb2df7f0a0c80ec741cf8fd4c9b8"
 metafile = true
@@ -319,6 +331,358 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "0d3405e537262b4afe76df6c9a884d1a7acbf5b6152109f4cc14b76a3551af7b"
 metafile = true
+
+[[files]]
+file = "packcore/configs/1080p_default_configs(2x).zip"
+hash = "609f971148bbadf04f0d340d8ff6a48efc2cbe7f71fab19e6f32741097fdea95"
+
+[[files]]
+file = "packcore/configs/1080p_default_configs.zip"
+hash = "8eda2e68272e9a422d2d13a91485553f1c47e35c2d60431851b413160e98e6ec"
+
+[[files]]
+file = "packcore/configs/1440p_default_configs(ultrawide).zip"
+hash = "855b9ca58fd8d4400c2335e56e218e0c1b829ef42da268116ea892caaabca4fa"
+
+[[files]]
+file = "packcore/configs/1440p_default_configs.zip"
+hash = "57181d88a247d58f06ba31efc69ae559eb10de829a98ad0ee1097e114dc0375a"
+
+[[files]]
+file = "packcore/configs/4k_default_configs(ultrawide).zip"
+hash = "2b22994f2176768ab975c90623e7be2c45f11e4776e91b14f061a4a8f5604176"
+
+[[files]]
+file = "packcore/configs/4k_default_configs.zip"
+hash = "db7e9d521b8cd199691ff30314a4cb916baa7704a137fb030ba5aa3c0265fbb2"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.0.md"
+hash = "59262fd77d7e7c3e27a88be97c3307a69093265bcf51aa6ccfe8756a39724585"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.1.md"
+hash = "bb9def4070047fffeffa76061b981b1d41bb09c90f88731536e08239d1a5becc"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.2.md"
+hash = "e572383e11b284f8b24562f1b3c8209e0b00dcd762982d4e3254020f97ff6f63"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.3.md"
+hash = "72b7f5addfa06f4dc3ff67b0d78a1d4313edd8167135c057bb1c5bae037f91b0"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.4.md"
+hash = "32954d5d231778c91f84d08d55694f1feadc689dd568608339d50b77abe173db"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.5.md"
+hash = "c2df7f4d8981003624bbd9dc3c9d9bece7b9eef5a491b57bcb0556223aa24a84"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.6.md"
+hash = "b09f8ae577ac4ea2c309eb2a472536318e988f0be553fb6ebd1c20fbf23090ea"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.0.7.md"
+hash = "e0a2e843eb26a2cf7251b7a112a0ae9b6b468a9039943de653baedace6e5bfc0"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.0.md"
+hash = "cb38f0043d410c1e0cf37e506bddd8eb7f0206f7962f285e6734287166f7ac7d"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.1.md"
+hash = "ef766b84a44aabbabb5c702d3f0aac01ef6cfee3e8d03458b9bd2f26c709d4d2"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.10.md"
+hash = "55570c5d5f66ac7e35a03f1b73925982a539daa7538caf9d5583c807a8d23b1c"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.11.md"
+hash = "44b1fb42bb6380e307f34c2639f91c05d7e551487bdcf061cb812cfe5559bd50"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.12.md"
+hash = "4b460e90f25bca3e6777c3dee33e696c5c09ccced18b3563fbaf3a6930963bcd"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.2.md"
+hash = "506bde7feae8e63cc671a32e39f09f1c908461a359b44d68a0bcc94854cc2db9"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.3-beta.1.md"
+hash = "37f729c863ef6b65494a4dfaaeb031e2642fc7e6fcafa1b6403915303c65dd5a"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.3-beta.2.md"
+hash = "8796a1573bd301e2da3b1fcf45bd73e6ac59ac58976c288190b59579f5d5c1e3"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.4.md"
+hash = "d8c242c374c0ccd2e392e3299f26fe43e0ac055c6d710811fe874b64d9ac2bad"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.5.md"
+hash = "8bbfacc4ac3a7d66cdc6e21c827f2f5d8583e3fbaba174bf36644fb9774a5905"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.6.md"
+hash = "9331e0f87a6a3988fac770f311fb91cd367b1744e6e36ac4b434132c25053ae5"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.7.md"
+hash = "cb69dfedaf9dfc314f46b19df3222f24a20c90a12174167780662b222f0e24cc"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.8.md"
+hash = "a27f7b643a47de6d7eb36e0612e8aa08d7eeabcb38f00268dec6236f44c8e1ba"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.1.9.md"
+hash = "956e0515abc21176639635aef4becc9412c23e737c63ad2302de60c8cbb767d5"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.0-beta.1.md"
+hash = "df11e9e62ace1d6325d2d27942dda8535c6e2e0cc011c04aeb57c23d45509838"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.0-beta.2.md"
+hash = "82f5aa7cd41a7b32c49f5e60217a33abd3aa9479a2644e4d003db807c8e5eec2"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.0.md"
+hash = "3d5fcb52e1abb242d572d01590703a9289491a05482c1602b93fe9f987194ce2"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.1.md"
+hash = "e956e453eb69680ca03d10be531ba351b5603ec6ff076f5fe329ce8e1ff807a0"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.2.md"
+hash = "eb9693766e41b84ef6d6831f0cb54681d34a4cf4035afff37386527849c5be66"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.3.md"
+hash = "cbb24c976cb75bf6721b34d95b2a2b2ebf85a1a73f456b90e0be837ee855bb68"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.4.md"
+hash = "3bb4d5c561e5d2ddbe092af6167df4ff4b10e58dc78f007b815456a416fcd780"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v3.2.5.md"
+hash = "c49595892fae0c069a1c22439387ea873983600b9b622d56c21be62be1db4340"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.1.md"
+hash = "9eaf41d349a8e9dfeecc4440f5599e1e97025b35b26779c44d90b445306c16a9"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.2.md"
+hash = "b5d047585cab808fad25adae54534e34d79b4a4459af03a16bf071b67178f4e5"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.3.md"
+hash = "8056d5d047106131501ea9a97ee0fb12b8ea2c66b16b914cf89bb5dd920a7348"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.4.md"
+hash = "6312bd64a6419e3aa2e6dfe696150b68cf084b4680fe000de15a228902fe2636"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.5.md"
+hash = "5e8322ae98fb657d966f543f8870310185d0ae60bf2327227cc8daea56e7e299"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.6.md"
+hash = "5ee13ee9d594bdd21bd152cf8781e44f0fcc1d50dae0bb391ccb61db51a33221"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.7.md"
+hash = "e70f89c922b22bf075dcf07324ccb6c65244077a4c91573a9143911f3410c807"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0-beta.8.md"
+hash = "951df6ce34242c9a199161a321a120a39aaf44a975b0d1dbad02d802033c0b53"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.0.md"
+hash = "860937d96ede676921d6f51a12aa3e7c26eef872fc582492142985e7433af18b"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.1.md"
+hash = "a6aaa5f9d2551ded90f990cc861a4f353a19a9a6ecc3eafc4f3e0cb14a52ef44"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.2.md"
+hash = "2d508059cc28e45a7d41c744dc3e88df48707c8dfd7f4d182caa02f5311fa600"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.3.md"
+hash = "83beb96a2f7ee7c4183bb170c6fec1c038b36327d8d630c0c8038ae3c50ba649"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.4.md"
+hash = "739e3812356a01f393c172c6d69bbeada449d50367326865382eee7a68c6305e"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.5.md"
+hash = "c432a1ef4908fddd91df322ab6ef513db08f36926f8e574de098ab645db76982"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.6.md"
+hash = "cb16aa62590318bbbbb05f29042a03f689eed3724f04172080d409d417832a1a"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.7.md"
+hash = "52e5b93026b66af2e4803f46705b6d5f3d3f18ad97bc092fe506a2999ec7cb70"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v4.0.8.md"
+hash = "858b9be8e1a64d0748c444e22312e07da690088da08831b7531ce949bb3ca4fc"
+
+[[files]]
+file = "packcore/markdown/modernui.md"
+hash = "6d5f1ad9594fda36e6ff6eec7010cec7831bcdb7d458b08e7f17dd4155ba234f"
+
+[[files]]
+file = "packcore/markdown/performance.md"
+hash = "cd6e070e02ad1adb5a2ae5a48096fdd6577831113d1601dc52fc1433ae4aad60"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.1.10.md"
+hash = "55570c5d5f66ac7e35a03f1b73925982a539daa7538caf9d5583c807a8d23b1c"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.1.11.md"
+hash = "44b1fb42bb6380e307f34c2639f91c05d7e551487bdcf061cb812cfe5559bd50"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.1.12.md"
+hash = "4b460e90f25bca3e6777c3dee33e696c5c09ccced18b3563fbaf3a6930963bcd"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.1.9.md"
+hash = "956e0515abc21176639635aef4becc9412c23e737c63ad2302de60c8cbb767d5"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.0-beta.1.md"
+hash = "df11e9e62ace1d6325d2d27942dda8535c6e2e0cc011c04aeb57c23d45509838"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.0-beta.2.md"
+hash = "82f5aa7cd41a7b32c49f5e60217a33abd3aa9479a2644e4d003db807c8e5eec2"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.0.md"
+hash = "3d5fcb52e1abb242d572d01590703a9289491a05482c1602b93fe9f987194ce2"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.1.md"
+hash = "e956e453eb69680ca03d10be531ba351b5603ec6ff076f5fe329ce8e1ff807a0"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.2.md"
+hash = "eb9693766e41b84ef6d6831f0cb54681d34a4cf4035afff37386527849c5be66"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.3.md"
+hash = "cbb24c976cb75bf6721b34d95b2a2b2ebf85a1a73f456b90e0be837ee855bb68"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.4.md"
+hash = "3bb4d5c561e5d2ddbe092af6167df4ff4b10e58dc78f007b815456a416fcd780"
+
+[[files]]
+file = "packcore/markdown/release-body-v3.2.5.md"
+hash = "c49595892fae0c069a1c22439387ea873983600b9b622d56c21be62be1db4340"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.1.md"
+hash = "9eaf41d349a8e9dfeecc4440f5599e1e97025b35b26779c44d90b445306c16a9"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.2.md"
+hash = "b5d047585cab808fad25adae54534e34d79b4a4459af03a16bf071b67178f4e5"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.3.md"
+hash = "8056d5d047106131501ea9a97ee0fb12b8ea2c66b16b914cf89bb5dd920a7348"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.4.md"
+hash = "6312bd64a6419e3aa2e6dfe696150b68cf084b4680fe000de15a228902fe2636"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.5.md"
+hash = "5e8322ae98fb657d966f543f8870310185d0ae60bf2327227cc8daea56e7e299"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.6.md"
+hash = "5ee13ee9d594bdd21bd152cf8781e44f0fcc1d50dae0bb391ccb61db51a33221"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.7.md"
+hash = "e70f89c922b22bf075dcf07324ccb6c65244077a4c91573a9143911f3410c807"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0-beta.8.md"
+hash = "951df6ce34242c9a199161a321a120a39aaf44a975b0d1dbad02d802033c0b53"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.0.md"
+hash = "860937d96ede676921d6f51a12aa3e7c26eef872fc582492142985e7433af18b"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.1.md"
+hash = "a6aaa5f9d2551ded90f990cc861a4f353a19a9a6ecc3eafc4f3e0cb14a52ef44"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.2.md"
+hash = "2d508059cc28e45a7d41c744dc3e88df48707c8dfd7f4d182caa02f5311fa600"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.3.md"
+hash = "83beb96a2f7ee7c4183bb170c6fec1c038b36327d8d630c0c8038ae3c50ba649"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.4.md"
+hash = "739e3812356a01f393c172c6d69bbeada449d50367326865382eee7a68c6305e"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.5.md"
+hash = "c432a1ef4908fddd91df322ab6ef513db08f36926f8e574de098ab645db76982"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.6.md"
+hash = "cb16aa62590318bbbbb05f29042a03f689eed3724f04172080d409d417832a1a"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.7.md"
+hash = "52e5b93026b66af2e4803f46705b6d5f3d3f18ad97bc092fe506a2999ec7cb70"
+
+[[files]]
+file = "packcore/markdown/release-body-v4.0.8.md"
+hash = "858b9be8e1a64d0748c444e22312e07da690088da08831b7531ce949bb3ca4fc"
+
+[[files]]
+file = "packcore/markdown/resource_packs.md"
+hash = "fc1ad3c91c58846a3f073e1a7dada8a8eba35d9c2963da66c99e11d8ffdfcd22"
+
+[[files]]
+file = "packcore/markdown/welcome.md"
+hash = "db096454d47051353ee821e67b99deb6255ca65aa0d3ab9000bfd8dfd4a915fc"
+
+[[files]]
+file = "packcore/modpack.json"
+hash = "22ebb82edf64647dc52b81f19ead51d233eb5f031d0438bda3c0cd6b86f92508"
+
+[[files]]
+file = "resourcepacks/ThickInter.zip"
+hash = "3fcfe695b8f1aa57538c910d8e9509d765c21e0bc2c4b7b88b40eacf0c869625"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"

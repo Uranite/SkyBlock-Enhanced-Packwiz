@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ad8517d476955223e976d88b02b764ffb4271b2b10d9ca3e79996eecf157e4f7"
+
+[[files]]
+file = "icon.png"
+hash = "f2093301ddeae92849c128a7c140572dfb4ff425814d5a3afdb6b366755d1f3e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "27d120cecb99b1dc056f5f2636d144941828f124637cb84667a0d0152d7f3f02"
 metafile = true
@@ -321,6 +329,82 @@ hash = "c44d11954c7b0006630472f4becd0433e0c3c3337626641c7649738029b14487"
 metafile = true
 
 [[files]]
+file = "packcore/guides/Essential Keybinds.md"
+hash = "fdf677abc949f8d2fe35dc22debc243e08832f7e4af7b7c2e02c51fe7ad4dfce"
+
+[[files]]
+file = "packcore/guides/FAQ.md"
+hash = "ee36c9ca3e893029cebc2d0751889cfcfcc5878ee3bff712d7fbe1875df446f6"
+
+[[files]]
+file = "packcore/guides/Getting Started.md"
+hash = "050cca48f098588b02a7c34bfd3742c9dfa783ad97ab00f928e43c8ea63c66e4"
+
+[[files]]
+file = "packcore/guides/How to Allocate More RAM.md"
+hash = "76bddfa7adf8e18647cdfdb546d095255c4ecdcf64a6677b4cead34da916d119"
+
+[[files]]
+file = "packcore/guides/How to Fix 'Resource Reload Failed' Error.md"
+hash = "0c8c1f0e583c015c99e0304623729339754457af8397c69be793ec5615c1a634"
+
+[[files]]
+file = "packcore/guides/Troubleshooting.md"
+hash = "4972ff5c979b25cbf0bd8e01413f9959ec285c611d186fbf2aab5d3c7f75b4b5"
+
+[[files]]
+file = "packcore/modpack-info.json"
+hash = "c54220b5912df483e25edc6347f6affebb29840a961aaa5af83aee5c4d6b4766"
+
+[[files]]
+file = "packcore/modpack_config/official_configs/1080p_default_configs.zip"
+hash = "ef05dc67664716962a4fe134d9f82f3ff24a2e1f05f25c3cdf29fdc910daa1f6"
+
+[[files]]
+file = "packcore/modpack_config/official_configs/1440p_default_configs.zip"
+hash = "bc7ebd0263316af1878e48aceff1e88c9cf1918d864819a37a01273a7021d5a7"
+
+[[files]]
+file = "packcore/modpack_config/official_configs/4k_default_configs.zip"
+hash = "74edff75b5307df3f87ece3a2281328dbcd1c474a3f644337bcda1775e05df7c"
+
+[[files]]
+file = "packcore/updates/README.txt"
+hash = "66f0ad0ff8ddf09325ed6cbcd15a243124c5c5b0a008ebf820ccc6f034b0e553"
+
+[[files]]
+file = "packcore/updates/sbo+krypt_config.zip"
+hash = "367ee903f3bfb2ae68aa73bbaa6c958b5449d90a63ed73d7a5497bce9e3589d7"
+
+[[files]]
+file = "packcore/updates/update_manifest.json"
+hash = "ba283a72985909a12e50e4ee6837f8b78bd7ee034362ff0c2c18397f6e3041d8"
+
+[[files]]
+file = "packcore/wizard_markdown_content/ResourcePacks.md"
+hash = "b87e7002c6cf3cfe5a193b40d496e6b359208f6cb161de699c75fa7f84edc0ba"
+
+[[files]]
+file = "packcore/wizard_markdown_content/UsefulInformation.md"
+hash = "77329811c154f97aa7325334ddc2ce4190208fcdf03017d563d2931ed55cfb4c"
+
+[[files]]
+file = "packcore/wizard_markdown_content/optimisation.md"
+hash = "e50eea8340f61dce8763054d0736b34976a1447d00d5fda569f552ec73087b15"
+
+[[files]]
+file = "packcore/wizard_markdown_content/resource_packs.md"
+hash = "1f8c9b0746661bf6b7a21be9df811d67393dbae3502c2dfb0b46feea4cc75c2a"
+
+[[files]]
+file = "packcore/wizard_markdown_content/useful_information.md"
+hash = "de5cf5cf25c9ebd8ae15bd8fe8a44385a1bf92a33102f3136ed59797f3ac7121"
+
+[[files]]
+file = "packcore/wizard_markdown_content/welcome.md"
+hash = "25fe6b6adb291a89b5b720bfae77a71df501d6fcfec8a8de7f6353b5c19a28f4"
+
+[[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"
 hash = "5acb148a31075ad480ba8417897498cbcda1d225828bc606a78dc7558128c104"
 metafile = true
@@ -354,6 +438,14 @@ metafile = true
 file = "resourcepacks/sophies-enchants.pw.toml"
 hash = "f8769f3b1bdb307eef9bfc3cfedc27cb5713ab9e01b9b72be6536787b61276f2"
 metafile = true
+
+[[files]]
+file = "resourcepacks/§aFurf§bSky §6Reborn §f§lOVERLAY§r §71.21.8§8.zip"
+hash = "7163916fe26c790e10549d693c9caaf2c1fd72f50ec0a4d2e87f4783aa8c7c68"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.6.zip.txt"
+hash = "d5f76327e5477f8638043f7810c7bde53d3667251aee2088b4ad09ee3b8067d4"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"

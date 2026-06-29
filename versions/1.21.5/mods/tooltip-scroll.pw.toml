@@ -1,0 +1,13 @@
+name = "Tooltip Scroll"
+filename = "tooltip-scroll-1.5.1+1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wySVd6d8/versions/CXkFtSPK/tooltip-scroll-1.5.1%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "77bbda15cb3037547d21cb7fb5a536232e74efa77a2fc26695f6ef9d91ed51d6858f090baa5abf4ad93528c6c5904e9b43d223829298efd4ab76a4e7f954b6ce"
+
+[update]
+[update.modrinth]
+mod-id = "wySVd6d8"
+version = "CXkFtSPK"

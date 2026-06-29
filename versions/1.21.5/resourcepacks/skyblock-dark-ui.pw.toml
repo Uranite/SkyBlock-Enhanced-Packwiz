@@ -1,0 +1,13 @@
+name = "Skyblock Dark UI"
+filename = "Skyblock Dark UI 1.8 for 1.21.5+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ed25eRJG/versions/qG5TJQVZ/Skyblock%20Dark%20UI%201.8%20for%201.21.5%2B.zip"
+hash-format = "sha512"
+hash = "42838f5f7288be9f4b412fde0af035b516af1858739a2c227556581b0486806dc164d09f99cc8a463d9b7a65ec3de55dc65f0154fa103cd804236aec29820b1c"
+
+[update]
+[update.modrinth]
+mod-id = "Ed25eRJG"
+version = "qG5TJQVZ"

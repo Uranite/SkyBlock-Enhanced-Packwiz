@@ -1,0 +1,13 @@
+name = "REI Search Bar Calculations"
+filename = "rei-search-bar-calculations-1.0.2+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/42tSijuX/versions/CwMDDBgZ/rei-search-bar-calculations-1.0.2%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "2e3175ed00bf30dafff5d75d4329654a98eccf10259827da41949e83000998ec230bf9706fde4b51e60863f603757f8a44ead0e4e10e47b8380ad9f4c9d5584b"
+
+[update]
+[update.modrinth]
+mod-id = "42tSijuX"
+version = "CwMDDBgZ"

@@ -1,0 +1,13 @@
+name = "PackCore"
+filename = "packcore-3.2.4+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3FnL7QV/versions/3T9v24E5/packcore-3.2.4%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "609844302dbb0ce4b76ecbfa2afb6d5fb2d9be13abbaf189c27ea1210c0b548078d085e4232b709300ef9cdff416ad00ebf00a9877bdd4ace1d44e8a32dbcecf"
+
+[update]
+[update.modrinth]
+mod-id = "V3FnL7QV"
+version = "3T9v24E5"

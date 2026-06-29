@@ -1,0 +1,11 @@
+name = "Krypt-1.0.2+1.21.5-fabric.jar"
+filename = "Krypt-1.0.2+1.21.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orh2YGoo/versions/epyB08e5/Krypt-1.0.2%2B1.21.5-fabric.jar"
+hash-format = "sha1"
+hash = "8e586c01d885c37bbb55967f8061d5b747d13e49"
+
+[option]
+optional = false

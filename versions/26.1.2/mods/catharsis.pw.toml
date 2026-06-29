@@ -1,13 +1,13 @@
 name = "Catharsis"
-filename = "Catharsis-1.0.0-beta.18-26.1.jar"
+filename = "Catharsis-1.0.0-beta.19-26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fc4wBpRx/versions/T5qQxwIH/Catharsis-1.0.0-beta.18-26.1.jar"
+url = "https://cdn.modrinth.com/data/fc4wBpRx/versions/ZOh97cMy/Catharsis-1.0.0-beta.19-26.1.jar"
 hash-format = "sha512"
-hash = "79a7f80bded92f4fa5619e844d76499fa837ba5634888f054b40de87af2d67fd3b244c2db6667b48cbef501814aea5eff59b6cf39f43eeb9a5bd6722118cd483"
+hash = "1658d23cd0e4de3eb7a59bd55aa9efc6a994a49d461c9adc576fad6ce08ac92258bf04f33a918592a1107727fb034a77271ad9ba945773987d6e68b045e07cfa"
 
 [update]
 [update.modrinth]
 mod-id = "fc4wBpRx"
-version = "T5qQxwIH"
+version = "ZOh97cMy"

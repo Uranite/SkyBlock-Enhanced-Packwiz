@@ -1,0 +1,13 @@
+name = "PacksHQ"
+filename = "PacksHQ_v15_16x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZeL572c/versions/7eBYdsF8/PacksHQ_v15_16x.zip"
+hash-format = "sha512"
+hash = "e600c3dde5b5a95bd312ab10511432c420042c545f333ee355392a2ded16389ccc393c15b9298fbd7f834defa3aee87e1a3da61bca2652154037c3c056acd1f4"
+
+[update]
+[update.modrinth]
+mod-id = "BZeL572c"
+version = "7eBYdsF8"

@@ -1,0 +1,13 @@
+name = "Sophie's Hypixel Skyblock Enchants"
+filename = "Sophie's Enchant Books V1.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XBG9JHVh/versions/Dmo0g3JB/Sophie%27s%20Enchant%20Books%20V1.8.zip"
+hash-format = "sha512"
+hash = "6c58d3d3fc83a1bbe44d51eec4a1547122df97438414a04b6cd8208de77e9aceccc46ef389b63236918d6ca8de7b9fa8eabddb5e4bff311cbfc512392a0e8a82"
+
+[update]
+[update.modrinth]
+mod-id = "XBG9JHVh"
+version = "Dmo0g3JB"

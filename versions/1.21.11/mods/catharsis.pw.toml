@@ -1,0 +1,13 @@
+name = "Catharsis"
+filename = "Catharsis-1.0.0-beta.16-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fc4wBpRx/versions/6cE5ViUD/Catharsis-1.0.0-beta.16-1.21.11.jar"
+hash-format = "sha512"
+hash = "fe16ecf08e4da1fc50ee5c94d1476a7e3e79d7d7675d9a2d6b3ded69bb628ef15d8af8ad201e22131a99a8c52a058fd2f142933d85b3f30a7b4209b50211ca9c"
+
+[update]
+[update.modrinth]
+mod-id = "fc4wBpRx"
+version = "6cE5ViUD"

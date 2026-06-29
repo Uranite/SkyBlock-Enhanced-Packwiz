@@ -1,0 +1,13 @@
+name = "SkyBlock Enhancements"
+filename = "skyblock_enhancements-1.0.13+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LpXuY1YR/versions/tPGtR6ZS/skyblock_enhancements-1.0.13%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "424bc61cc7274345baca3c5daa5ea2d517566302ec7a92809e9e80ea9df39deea18bb83db5b27fd1b8a15fe7a137ee5f61e3e51ef7ec2830cdea4c4e76138f32"
+
+[update]
+[update.modrinth]
+mod-id = "LpXuY1YR"
+version = "tPGtR6ZS"

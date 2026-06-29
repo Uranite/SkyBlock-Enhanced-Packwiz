@@ -1,0 +1,13 @@
+name = "looshy"
+filename = "§dlooshy §7[§f26.1§7] [v0.12].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pbipt9Sm/versions/krI58ahy/%C2%A7dlooshy%20%C2%A77%5B%C2%A7f26.1%C2%A77%5D%20%5Bv0.12%5D.zip"
+hash-format = "sha512"
+hash = "96842e3b52c69f7d9f94977895b4bc3e94ee5e324588e3ae45d2e224aed09aab2a9f0353f101fb41b10f5007608239ae7aa0802494798038f78a966a00b1b377"
+
+[update]
+[update.modrinth]
+mod-id = "pbipt9Sm"
+version = "krI58ahy"

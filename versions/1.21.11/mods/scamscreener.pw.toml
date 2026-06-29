@@ -1,0 +1,13 @@
+name = "ScamScreener for Hypixel SkyBlock"
+filename = "scamscreener-2.4.3+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTB0bgAW/versions/iTUn2dud/scamscreener-2.4.3%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "c1ef10c77660ffa8772bf650ab0dfe88b037081d9656e0656e31ae595beac56824b3eeca8014ba319157a845881de7e4587a02acd836cce139a9fc4d03aefe23"
+
+[update]
+[update.modrinth]
+mod-id = "XTB0bgAW"
+version = "iTUn2dud"

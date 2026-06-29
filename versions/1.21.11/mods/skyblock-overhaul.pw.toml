@@ -1,0 +1,13 @@
+name = "Skyblock Overhaul (SBO)"
+filename = "SBO-0.3.0-beta+1.21.11-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9lBqVbQF/versions/InwNdzOw/SBO-0.3.0-beta%2B1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "f114a4ba35af94e15b4fa662697c1ffd46261b6a320c6158a5136664bb3a88a60112ec50631d3e9f83810ae21823ea029574f7dc8a7d703b889171fac680b369"
+
+[update]
+[update.modrinth]
+mod-id = "9lBqVbQF"
+version = "InwNdzOw"

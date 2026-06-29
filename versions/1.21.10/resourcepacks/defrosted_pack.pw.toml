@@ -1,0 +1,13 @@
+name = "defrosted"
+filename = "!     §3defrosted §8[§f16x§8] [1.21.11] [v1.4].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NPzwNDRa/versions/kdfFWoXg/%21%20%20%20%20%20%C2%A73defrosted%20%C2%A78%5B%C2%A7f16x%C2%A78%5D%20%5B1.21.11%5D%20%5Bv1.4%5D.zip"
+hash-format = "sha512"
+hash = "3c9b125112b64f426fbb1d2b2cadd287e8d0f3ad90f566678ef8efc9f3fb984ef4bcd06d452e44485f51feccc977665436ef4234d0f0780ddc8d5643e7fbe041"
+
+[update]
+[update.modrinth]
+mod-id = "NPzwNDRa"
+version = "kdfFWoXg"

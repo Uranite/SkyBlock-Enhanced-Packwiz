@@ -1,0 +1,13 @@
+name = "Stella"
+filename = "stella-1.0.6+26.1-b1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZSWJelST/versions/ECyXXmTs/stella-1.0.6%2B26.1-b1.jar"
+hash-format = "sha512"
+hash = "595611d8d5a356a6e9e96c848458371bb8da7035ab11579072c3d54075e53c6eb52945ca6f45d8b8878009ebc7389c6515179a13c4f5ed78bd65a4eb21f26775"
+
+[update]
+[update.modrinth]
+mod-id = "ZSWJelST"
+version = "ECyXXmTs"

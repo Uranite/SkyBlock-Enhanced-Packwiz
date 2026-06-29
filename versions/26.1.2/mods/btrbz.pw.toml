@@ -1,0 +1,13 @@
+name = "BtrBz"
+filename = "btrbz-0.8.0-alpha+26.1.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IzWPcaNg/versions/UO5XK4z4/btrbz-0.8.0-alpha%2B26.1.x.jar"
+hash-format = "sha512"
+hash = "0a2d8508679caf8d2642a302403effa7e5ebe3a6cb2589434b4bde903fadf7637333c42f1966fcc0e434782e33e3fe8fa07fb2612fc5f28cbdab13e79b34ccf1"
+
+[update]
+[update.modrinth]
+mod-id = "IzWPcaNg"
+version = "UO5XK4z4"

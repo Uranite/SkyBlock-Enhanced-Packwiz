@@ -1,0 +1,13 @@
+name = "Feesh"
+filename = "Feesh-1.9.0+26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QCpogurE/versions/fsdTnn4R/Feesh-1.9.0%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "cba309653ec8a108adca92ccd1cbb45e3162bacecd8491386a1569a9344e821d5c9596f4e24edc15e3bc450e91725b351baf7862967d932c6b2ec13f4a3cbeb7"
+
+[update]
+[update.modrinth]
+mod-id = "QCpogurE"
+version = "fsdTnn4R"

@@ -1,0 +1,13 @@
+name = "Odin - Hypixel Skyblock"
+filename = "Odin-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jJJLywXp/versions/9ebmAW17/Odin-0.2.2.jar"
+hash-format = "sha512"
+hash = "f1f6b9975e04cf254a4c72c42775cb073d6315b65cc2ca62c7879f122464f6521c5c8010259f4760812859aaefd8a684f5aedf953cd09f3f36fffd1f07e977fd"
+
+[update]
+[update.modrinth]
+mod-id = "jJJLywXp"
+version = "9ebmAW17"

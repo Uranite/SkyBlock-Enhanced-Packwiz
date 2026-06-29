@@ -1,0 +1,13 @@
+name = "Skyblock Enhanced Storage"
+filename = "enhanced_storage-0.8.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ICyROmSc/versions/oj0nzKBu/enhanced_storage-0.8.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "6e4aa646a1451bf872e8860926b812edc589bc69b3b9c8c37d35081ff61d892c27f26d62a29d3c1b65c00133932bd53bb7b4cb7fc3556ba048181a9c0aefb08c"
+
+[update]
+[update.modrinth]
+mod-id = "ICyROmSc"
+version = "oj0nzKBu"

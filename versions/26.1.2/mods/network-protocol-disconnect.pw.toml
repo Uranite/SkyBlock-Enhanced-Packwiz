@@ -1,0 +1,13 @@
+name = "Network Protocol Disconnect"
+filename = "netprodis-2.0.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFlUmiDF/versions/NKG0fjy4/netprodis-2.0.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "c47138381a8095eb6823a40ce7088783b9f649c2780a6a57f8ce095c67f1fe803421d4aed4c39dc359af5ff77ef98ffdca6cb7b2706c60525014aefb5a8fb695"
+
+[update]
+[update.modrinth]
+mod-id = "XFlUmiDF"
+version = "NKG0fjy4"

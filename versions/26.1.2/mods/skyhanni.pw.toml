@@ -1,0 +1,13 @@
+name = "SkyHanni for Hypixel SkyBlock"
+filename = "SkyHanni-7.27.0-mc26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/byNkmv5G/versions/LIzaC03Y/SkyHanni-7.27.0-mc26.1.jar"
+hash-format = "sha512"
+hash = "147721b871bf6b34b48c0912da71eb2f99b781fc784366bb34c22acd9c603725e949451167103e0a6a00baaa6e6532bb6adc69c62d7456ca83f320f34e0c598e"
+
+[update]
+[update.modrinth]
+mod-id = "byNkmv5G"
+version = "LIzaC03Y"

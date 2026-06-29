@@ -1,0 +1,13 @@
+name = "Scale Me"
+filename = "scaleme-3.2.1+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pEGu9f0K/versions/C0rw42qK/scaleme-3.2.1%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "e42b642c65eb6e29fc9f8d81ac9edb926a79bf929e8af5c07d3bf5009e0812ce5f83ec0ed811be47ea91eed2b4fc2c058f9405259bd25ae44f75c138baa81a93"
+
+[update]
+[update.modrinth]
+mod-id = "pEGu9f0K"
+version = "C0rw42qK"

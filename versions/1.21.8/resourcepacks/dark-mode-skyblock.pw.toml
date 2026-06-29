@@ -1,0 +1,13 @@
+name = "SkyBlock Dark mode"
+filename = "Dark Skyblock v0.2.1 - 1.21.5+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UldQM8wd/versions/u8nw4pF8/Dark%20Skyblock%20v0.2.1%20-%201.21.5%2B.zip"
+hash-format = "sha512"
+hash = "2fe369fbc212b05a9e3f2253110847ac259b977940c5161a120ba859eb3bfba3a00bdf4c31791f59d3ebe6da062eb37277f2a23ba973552a562f00de98a3803c"
+
+[update]
+[update.modrinth]
+mod-id = "UldQM8wd"
+version = "u8nw4pF8"

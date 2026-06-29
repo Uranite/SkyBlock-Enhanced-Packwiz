@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "282612f1ffa7d7576d20e92c353f191cca257dc7962fa29804c17a7eefdd0c5f"
-
-[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "b5beddbec52a1f74a9b484e06471ed8e83a43e42079ec168f92a336eb9484437"
 

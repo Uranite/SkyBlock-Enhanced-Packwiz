@@ -1,13 +1,13 @@
 name = "MarketGuard for Hypixel SkyBlock"
-filename = "marketguard-1.3.1+26.1.2.jar"
+filename = "marketguard-1.3.2+26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ji4JdpCu/versions/FR1IiVZT/marketguard-1.3.1%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/ji4JdpCu/versions/G8ivdeEm/marketguard-1.3.2%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "38b717169a329f5c195fe64958ea6e2666644c88e83b7929731d0474862c0add9d08f7207427762656b143dfb6f2b006f4360f2494268d22b51fba09a744b637"
+hash = "568e1c65978e7e3f3ebc6112504bbd0fb3708f81a6f27c4a11fd826d0c25e6b3c7c24dc161158a6ae964df50df024cf78be109214de21c156265195bd4161702"
 
 [update]
 [update.modrinth]
 mod-id = "ji4JdpCu"
-version = "FR1IiVZT"
+version = "G8ivdeEm"

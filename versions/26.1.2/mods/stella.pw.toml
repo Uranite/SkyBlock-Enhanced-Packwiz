@@ -1,13 +1,13 @@
 name = "Stella"
-filename = "stella-1.0.6+26.1-b1.jar"
+filename = "stella-1.0.6+26.1-b2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZSWJelST/versions/ECyXXmTs/stella-1.0.6%2B26.1-b1.jar"
+url = "https://cdn.modrinth.com/data/ZSWJelST/versions/bKk5LWac/stella-1.0.6%2B26.1-b2.jar"
 hash-format = "sha512"
-hash = "595611d8d5a356a6e9e96c848458371bb8da7035ab11579072c3d54075e53c6eb52945ca6f45d8b8878009ebc7389c6515179a13c4f5ed78bd65a4eb21f26775"
+hash = "7f7482561f139d36cb2ecb5a31b343a8ee83a249f0fb1064ec3f344f3102acf045f09e47c13aae74ed776632d9a7a86dde5379f57a0eeb8f7281c3a9da32b842"
 
 [update]
 [update.modrinth]
 mod-id = "ZSWJelST"
-version = "ECyXXmTs"
+version = "bKk5LWac"

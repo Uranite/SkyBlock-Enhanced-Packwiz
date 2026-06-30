@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-skyrecipes.pw.toml"
-hash = "a9c19197d031cf842328d3eeb4a04e4af6426e02ba256810bb78103ed678f31c"
+hash = "7b971ba643d1c81f83b3702522cf48129d5791cc5a3563cf21fd2495d6824f16"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4ebef941f00c91f92eb0212f5f358aea76aa8e83d78ccc286c1a977fd4d8d210"
+hash = "04b21f2dd01155d5d9d156d270f3deb61081abfe868b29b064c62bead515f910"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "98a7bbc1f8cb26cc34d8770780d7592e0f61bb29c2ab3a28910eff2023aefcd8"
+hash = "da435f6743b812f333d2b26dce8faea336a37857af30b6d15855103a273e81da"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/scamscreener.pw.toml"
-hash = "ab6711f09d793b2d913385e5d1d8ff11bf7c32b9dda99e27a40e8eeddce4b13f"
+hash = "0bb3bb82f708fb0baf2ae615bf431ba3f6b860d940a155c73313171bd6853690"
 metafile = true
 
 [[files]]

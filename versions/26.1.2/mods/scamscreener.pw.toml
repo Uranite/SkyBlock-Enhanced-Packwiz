@@ -1,13 +1,13 @@
 name = "ScamScreener for Hypixel SkyBlock"
-filename = "scamscreener-2.4.3+26.1.2.jar"
+filename = "scamscreener-2.5.0+26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XTB0bgAW/versions/AhCuX8Y6/scamscreener-2.4.3%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/XTB0bgAW/versions/LUgVC2fo/scamscreener-2.5.0%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "68f35e97e0266bbba9c40da5567f8f66366c3296f009d31f3d28fdec21e5bbf18ed81a19957cec5c35119add94a95f8a6e5928f5cf2d128b67bb2547afc5751e"
+hash = "c44223d4dc2303a982c054286896a813845928e5aaacbcc35c9a33441e1d33066ef6386cf5dc475d52d7447b473e39c06281664f0dc3f95fae91f926f0767869"
 
 [update]
 [update.modrinth]
 mod-id = "XTB0bgAW"
-version = "AhCuX8Y6"
+version = "LUgVC2fo"

@@ -314,6 +314,11 @@ hash = "555eabb9867159be6757ef375bc5cf8bbfed718397d23cd5eae6312663fc84e5"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "935b6d91fa1df29a4f8aae31fa6a80d3e020eecfc92962741bfab672f991fd41"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "d8debcfe5335590bd37bdc0157cc50bc2a3e0f56178750d25767226a4f76408e"
 metafile = true

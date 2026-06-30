@@ -24,6 +24,16 @@ hash = "2b3b0f3a6e1851829ba30d517537a0aef160373183a06019e26863cfa9f41a10"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "841fb563ceadc88a73c55500b19bbede3568dea3005c901db638c2b9d898ed49"
+metafile = true
+
+[[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "dd558c0a3a5317d461589337cc04f33527e2191ede4dbd680ab9df594aad5e62"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "996ec8b8484c0709cc66e7eaa7a22535375fab7aed76e2ec4db34b5323aa382f"
 metafile = true
@@ -36,6 +46,16 @@ metafile = true
 [[files]]
 file = "mods/catharsis.pw.toml"
 hash = "5d7727bfff64d56b4daa74a6cfc82ef6d7baf835a2af4d5227a205f3aa87fda6"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "183afb9d10363afd2833a957aeb7ccdfb74aff8c508cf4565bdc5d8eeb020a9a"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a3a002d06505ee2af2325fe0e16afe60c0622de3688c509096f320c926141735"
 metafile = true
 
 [[files]]
@@ -124,6 +144,11 @@ hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "4ebef941f00c91f92eb0212f5f358aea76aa8e83d78ccc286c1a977fd4d8d210"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "6a70c950e1f0952e6c7fabad2a7a146fa6d4a84892eae843ccb643b6701b15c8"
 metafile = true
@@ -131,6 +156,16 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2c7f4e5909fe14046115f1ec3427865580f4e10eb1b433b3ce9e805ac95aeff9"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "98a7bbc1f8cb26cc34d8770780d7592e0f61bb29c2ab3a28910eff2023aefcd8"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "a6d6f1918d01a0650936555f60bd235b50705b7466a9d03cf8e27d78f33bf18d"
 metafile = true
 
 [[files]]
@@ -214,6 +249,11 @@ hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8c272ec6b1bd2c3b526920d224af6b769d5fc03c473fb721e50e7481a6d094e2"
+metafile = true
+
+[[files]]
 file = "mods/quick-pack.pw.toml"
 hash = "07adbf0de8f0e7d677b814ad8c770e5fd738719c15dd80f57bec4d6353d96709"
 metafile = true
@@ -289,6 +329,16 @@ hash = "344fc0009f4ebb92ad350a665d7c3e0eb970b37205ff2a1a1e6e41f8d43488de"
 metafile = true
 
 [[files]]
+file = "mods/smooth-gui.pw.toml"
+hash = "d017dc01dbc7c9cde40ddf8a68c63beef1609fd46a4c7570ca8d7e071368d4d0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "cb5fd18d2e5d1981f11eaf66d2325a477a554a418d2e534b253b59f0e46f7816"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "c4f6582aedb8eb658f2bb82a101d7add62b4a2f2c94f8f07b4f3213877d8dcc2"
 metafile = true
@@ -304,8 +354,18 @@ hash = "dbd6b280ec83a23539cbdb3d57c6b5c3b18d9a4524108093ce784c66559f8a14"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7560a0a8d7737d587fc2e3484e5573a743988549c2ce5f24746f8ea816cad5c9"
+metafile = true
+
+[[files]]
 file = "mods/stella.pw.toml"
 hash = "e76e981a65d494041ca61a951f99d951251c04016f08e32c630e52915b627476"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "694549a06bdc8b37262958fbcb26eec57df96c2a624cd05378f025289639efce"
 metafile = true
 
 [[files]]

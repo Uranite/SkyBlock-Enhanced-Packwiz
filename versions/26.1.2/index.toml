@@ -269,11 +269,6 @@ hash = "fd7c2116790a000524c81f33ef2536296c6854754f079eabbd6cad604c8119bb"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
-metafile = true
-
-[[files]]
 file = "mods/scaleme.pw.toml"
 hash = "ef6c118c999e5c8c9a51bb97374f7617092782e875885f748140fb49c9d81dc1"
 metafile = true
@@ -403,7 +398,7 @@ hash = "75001db70d61146febb5714b0a964f923f149b98dfec386920fd81fbf1c54b7c"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "421c7da890b103c9878af00c648acf8d025718865f8e5a8a8d39db8a5adb6cf4"
+hash = "9affd8364a28db094b6468fa0c0d1a4977055e968c80b0a19238521f34fc4b8f"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"

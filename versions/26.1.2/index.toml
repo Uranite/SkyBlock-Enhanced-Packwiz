@@ -394,11 +394,11 @@ hash = "7a78cdb9a1acd041810c9edfde045f819df3f02091a20ed51c957f02ff9336b5"
 
 [[files]]
 file = "packcore/configs/1080p_default_configs_2x_.zip"
-hash = "75001db70d61146febb5714b0a964f923f149b98dfec386920fd81fbf1c54b7c"
+hash = "0937125755e8c8fde2c7ceb3ffae8273e9e92df4f7fc00af85ebb2be7eae6db8"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "9affd8364a28db094b6468fa0c0d1a4977055e968c80b0a19238521f34fc4b8f"
+hash = "5c4c1d1e7e119a3a378617901e7a1a247f245e34d58ba4bbd0dc379d84de4187"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"

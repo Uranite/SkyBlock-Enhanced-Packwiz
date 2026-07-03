@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
+hash = "3134dab02ee45b29c86d8ef5d7cd566088c570bc6901eec78a62b473319b9d07"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "2e531dae9197fea52cc553bc6756544c1f4664784874741110294be2fd975fd6"
+hash = "cb4b411882267dfba9ab18f33d3fa69f3f4a545e996411000a3ed6315f3b8452"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "b856be215a476ee86b0e617180cfffc849bf330702279119459dde8dbf59badb"
+hash = "23df5659c917f3e0ba451dd6142e1d41c8381b51890abb39154d550bdc77c29b"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "10f9d0ea300855b69051c03ea70f8a4c191e6569de43a91d723f839be06027ca"
+hash = "40eb3eb16b56fbec19f4123b001a9202bc67126dd49a3ae4cbef809b568d2e33"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ebe917fde984b2b44139c02c36886452d529989677a0639c21688290c00a1d67"
+hash = "6e04dc3554552f5966ad5d64d213efe2d853f4c52736db9a7f25c47aa16c3c39"
 metafile = true
 
 [[files]]
@@ -295,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-enhanced-storage.pw.toml"
-hash = "7154997f0ca63b4ef728ca75079c03c7fb4890b2fb3db304035680d5316ba125"
+hash = "8260774b515ddb6bbc7e0d148524a775088bad1ea45bde752c433b4f861d093f"
 metafile = true
 
 [[files]]
 file = "mods/skyblock-enhancements.pw.toml"
-hash = "12770c296d85fe1185ce9bf920ae3805b57fe35c6ff892a733624be91f96abfb"
+hash = "b66bc8203b15a1a24cc780d85633a379d386a848c980694eac66ad9e4b259a35"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "34169ad1f13a1af6bc95dee61ea5639aefb7d9cda95179fb90e40c6a489c2d7f"
+hash = "6b051c0e560d83c856507fe5b9e6246067900796a3a57959ab886368387f8f3f"
 metafile = true
 
 [[files]]
@@ -442,6 +442,14 @@ file = "packcore/markdown/CHANGELOG-v5.0.0-beta.6.md"
 hash = "e4d280df16434454f33de247ce2725217c83579dbb27b958ff582ccfe8804527"
 
 [[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.0.md"
+hash = "d411a37821bf6091c8dded742295453e422d4a39d209138bebf8bf0c0afcad5b"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.1.md"
+hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
+
+[[files]]
 file = "packcore/markdown/config_packs.md"
 hash = "a817aa8b29f92152951ae1a3dc1bdea3b3d577c11cf9561fc2fc89eb68e35573"
 
@@ -474,6 +482,14 @@ file = "packcore/markdown/release-body-v5.0.0-beta.6.md"
 hash = "e4d280df16434454f33de247ce2725217c83579dbb27b958ff582ccfe8804527"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.0.0.md"
+hash = "d411a37821bf6091c8dded742295453e422d4a39d209138bebf8bf0c0afcad5b"
+
+[[files]]
+file = "packcore/markdown/release-body-v5.0.1.md"
+hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
 hash = "035f9d523f630c83a2e4b6701fd8f2089d076c597e089f6f25c95fc3b21475aa"
 
@@ -483,7 +499,7 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "702aa9d8c4b2bf43ac35b095e4f5e11c59766013a7eb20481093de9430d561a8"
+hash = "84dc7520730f2cfddf4e39ebe026f6d33e8e0bf5fd3d1890c45e553915a63121"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"

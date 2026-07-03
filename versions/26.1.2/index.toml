@@ -398,7 +398,7 @@ hash = "0937125755e8c8fde2c7ceb3ffae8273e9e92df4f7fc00af85ebb2be7eae6db8"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "5c4c1d1e7e119a3a378617901e7a1a247f245e34d58ba4bbd0dc379d84de4187"
+hash = "ec21459d127a31d825940e2c73013b598f775540153c253a0ffb328f3cd6f799"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"

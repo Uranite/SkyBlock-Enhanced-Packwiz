@@ -394,7 +394,7 @@ hash = "7a78cdb9a1acd041810c9edfde045f819df3f02091a20ed51c957f02ff9336b5"
 
 [[files]]
 file = "packcore/configs/1080p_default_configs_2x_.zip"
-hash = "cd990399ddc95d816806dda587fb0690f6f9d48343f3b3acd518d824aa73c178"
+hash = "c32514fdee643e51b86c835763225ccf3d016956118024380fefe081cdfafb46"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"

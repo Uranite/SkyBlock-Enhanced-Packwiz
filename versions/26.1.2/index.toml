@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/catharsis.pw.toml"
-hash = "5d7727bfff64d56b4daa74a6cfc82ef6d7baf835a2af4d5227a205f3aa87fda6"
+hash = "dcf0e2b89cc16a7ea3262736a6f1cac631bb282dd92b2d8f3b989d5384688233"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-skyrecipes.pw.toml"
-hash = "7b971ba643d1c81f83b3702522cf48129d5791cc5a3563cf21fd2495d6824f16"
+hash = "85a1de1b22f394abe9d11c8a6c208c4fd4854810563866d12a59e08baedb230c"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/scamscreener.pw.toml"
-hash = "0bb3bb82f708fb0baf2ae615bf431ba3f6b860d940a155c73313171bd6853690"
+hash = "10104a84f9c580b8aafbf14b68fba863d160b60adaa735684f8f52b1fc601278"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-enhancements.pw.toml"
-hash = "b66bc8203b15a1a24cc780d85633a379d386a848c980694eac66ad9e4b259a35"
+hash = "801b8c0ae2afed632eabe724d35eb90fd7a173df3cb8c6b1d0941987c1656eb1"
 metafile = true
 
 [[files]]
@@ -394,11 +394,11 @@ hash = "7a78cdb9a1acd041810c9edfde045f819df3f02091a20ed51c957f02ff9336b5"
 
 [[files]]
 file = "packcore/configs/1080p_default_configs_2x_.zip"
-hash = "0937125755e8c8fde2c7ceb3ffae8273e9e92df4f7fc00af85ebb2be7eae6db8"
+hash = "cd990399ddc95d816806dda587fb0690f6f9d48343f3b3acd518d824aa73c178"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "ec21459d127a31d825940e2c73013b598f775540153c253a0ffb328f3cd6f799"
+hash = "0da7539fa510c0609c6b8dd35a7b27d17a3ae0d3b6c8da7ee68bdb4fa9c9e378"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"

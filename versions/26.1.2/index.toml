@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-overhaul.pw.toml"
-hash = "41f8b6eccd2a71acc6e3b43283560af71e45be646baf5c88823796869e42f318"
+hash = "b709b52578501696850324477f415da0cc732130d60f5796ccc155c6a7581f74"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/skyblock-dark-ui.pw.toml"
-hash = "7fede02ba0021d26a41b1c2c1f4720cc55946aa03f11fd64c784c6178024cd36"
+hash = "de54fc0be66bee1a2925bf4ab94d4ae20257d210e1585725f35be9b329113fbe"
 metafile = true
 
 [[files]]

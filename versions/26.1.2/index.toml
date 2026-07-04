@@ -24,6 +24,11 @@ hash = "2b3b0f3a6e1851829ba30d517537a0aef160373183a06019e26863cfa9f41a10"
 metafile = true
 
 [[files]]
+file = "mods/better-screens.pw.toml"
+hash = "14ec012adb03b7905f4bb110c1d64ac98c9f12410c79110b63f26b9baf035706"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "841fb563ceadc88a73c55500b19bbede3568dea3005c901db638c2b9d898ed49"
 metafile = true
@@ -131,6 +136,16 @@ metafile = true
 [[files]]
 file = "mods/gnetum.pw.toml"
 hash = "592dd4f9cbed1762711ec05e5bb3b7b20f3d16a6df4ef20aba8461bef28f7232"
+metafile = true
+
+[[files]]
+file = "mods/hypixelautogg.pw.toml"
+hash = "0df2f977438724eb0fe9e4a2d7e364096336bfd7b3c3e18ec327077aeb505ac3"
+metafile = true
+
+[[files]]
+file = "mods/hypixelautotip.pw.toml"
+hash = "64b2ce493630ab54b5f7572581be6434f85dbb866bd9ef69c6b577b85338e3c6"
 metafile = true
 
 [[files]]
@@ -261,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6e04dc3554552f5966ad5d64d213efe2d853f4c52736db9a7f25c47aa16c3c39"
+metafile = true
+
+[[files]]
+file = "mods/reward-claim.pw.toml"
+hash = "e0cc524ca158ee6a268a0baa0ad620f0c3a9347af4ebe187bb391e33a2db0b2e"
 metafile = true
 
 [[files]]

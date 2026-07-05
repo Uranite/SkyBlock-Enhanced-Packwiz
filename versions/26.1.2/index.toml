@@ -410,27 +410,27 @@ metafile = true
 
 [[files]]
 file = "packcore/configs/1080p_default_configs.zip"
-hash = "7a78cdb9a1acd041810c9edfde045f819df3f02091a20ed51c957f02ff9336b5"
+hash = "c49416ee4fe9618a60b9b802d75a1f71c17b2df5e7ecdb109347257c3261e45a"
 
 [[files]]
 file = "packcore/configs/1080p_default_configs_2x_.zip"
-hash = "c32514fdee643e51b86c835763225ccf3d016956118024380fefe081cdfafb46"
+hash = "b27aa4554a3bea0d0bd5664233b8b555b49c8b418269583beff6cb0df3396047"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "0da7539fa510c0609c6b8dd35a7b27d17a3ae0d3b6c8da7ee68bdb4fa9c9e378"
+hash = "65a21f88d5d30024d475562f1b1bc2c56d21ebc9fa5153f3cd890dc8167e562e"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"
-hash = "05a07a038ec171e0f02f3fd82ec7bf2b3d1010d2875a4f6ede6c1082d1c81355"
+hash = "b08e53f7bf460aa0420b7e143162ef9d8dc753980e3a2aa57675df8062534f6e"
 
 [[files]]
 file = "packcore/configs/4k_default_configs.zip"
-hash = "2dfde225fd4548eccbc62a921cd857df88e47a4104fdafe763ed2e73e50f0b90"
+hash = "b4f71a8d119d36f4b64161ba3bd0c4779fea6c73f6680e513d3c5f9d2135e264"
 
 [[files]]
 file = "packcore/configs/4k_default_configs_ultrawide_.zip"
-hash = "7b0e0507b0209c134a57edd5cfa6ce621d81fac31b3e94ceb5d4f7e7b2b9bf6e"
+hash = "2eb194bccee2ff0a3b4d32a32d7ccfee6f56d3f1bedd5e287e990b39da4360f5"
 
 [[files]]
 file = "packcore/markdown/CHANGELOG-v5.0.0-beta.1.md"
@@ -463,6 +463,10 @@ hash = "d411a37821bf6091c8dded742295453e422d4a39d209138bebf8bf0c0afcad5b"
 [[files]]
 file = "packcore/markdown/CHANGELOG-v5.0.1.md"
 hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.2.md"
+hash = "2397e1ba21b96bdd4cb24c9365e2e5b95722aa9bafd0bc8131d3bbfac088aad8"
 
 [[files]]
 file = "packcore/markdown/config_packs.md"
@@ -505,6 +509,10 @@ file = "packcore/markdown/release-body-v5.0.1.md"
 hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.0.2.md"
+hash = "2397e1ba21b96bdd4cb24c9365e2e5b95722aa9bafd0bc8131d3bbfac088aad8"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
 hash = "035f9d523f630c83a2e4b6701fd8f2089d076c597e089f6f25c95fc3b21475aa"
 
@@ -514,7 +522,7 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "84dc7520730f2cfddf4e39ebe026f6d33e8e0bf5fd3d1890c45e553915a63121"
+hash = "0566febec2e78b18364149f362bff3f6b737c283a88d9ec56c9d734d89211f69"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"

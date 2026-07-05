@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "40eb3eb16b56fbec19f4123b001a9202bc67126dd49a3ae4cbef809b568d2e33"
+hash = "95e8d1add25e6ab29782423107438fed8f29e1d43d9cfd3fc2272798005b38ff"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-enhancements.pw.toml"
-hash = "801b8c0ae2afed632eabe724d35eb90fd7a173df3cb8c6b1d0941987c1656eb1"
+hash = "ecdffc41e396a15a9ff289a4c8b1536fa4016c15d05de2ea2a66bcf490f42f13"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/ui-lib.pw.toml"
-hash = "555eabb9867159be6757ef375bc5cf8bbfed718397d23cd5eae6312663fc84e5"
+hash = "0d7f3fecb3b10a9b9ff6ddf983e203b99f81800947e90043c18a6a0afca9d3e4"
 metafile = true
 
 [[files]]

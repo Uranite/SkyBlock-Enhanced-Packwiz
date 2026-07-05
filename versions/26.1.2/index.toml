@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "a3a002d06505ee2af2325fe0e16afe60c0622de3688c509096f320c926141735"
+hash = "47f0c2818d82395bbbd0a3fd7f7370291eddc5d846c3d41965ceecc7a0222774"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/scamscreener.pw.toml"
-hash = "10104a84f9c580b8aafbf14b68fba863d160b60adaa735684f8f52b1fc601278"
+hash = "eddc0a131f2bd8f49066b0ae09f36cc15d1a4832faf46497c9d7c11f37cacaad"
 metafile = true
 
 [[files]]
@@ -335,17 +335,17 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "8a15e33fcbb812fd5c6f86d7aa2ba0fc9a5b1f6f2805d48b2342777fdf81a08c"
+hash = "be3ba2f167edad0cb76aba54c486b11f9103abbb546b02a5b9c4d94697479b2b"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "344fc0009f4ebb92ad350a665d7c3e0eb970b37205ff2a1a1e6e41f8d43488de"
+hash = "c4754cb21d75b9c5f004fa1cde390ae3c19f6ec496d7b251263474169d9257f7"
 metafile = true
 
 [[files]]
 file = "mods/smooth-gui.pw.toml"
-hash = "d017dc01dbc7c9cde40ddf8a68c63beef1609fd46a4c7570ca8d7e071368d4d0"
+hash = "dd1a82af7a9c6e5ceb07924734098e11528c7a4f04d3725e6bb1a78fa599cc36"
 metafile = true
 
 [[files]]

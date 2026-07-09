@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "b5beddbec52a1f74a9b484e06471ed8e83a43e42079ec168f92a336eb9484437"
+hash = "5ca29430108b65844601fe755abd3eabcf03757a1488a23a79457e79b6a15ec0"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "a03b97bcf5988623a90bb39a519294ad8f507a7f96ba9f34ef73b86b0e7f9ca5"
 
 [[files]]
 file = "icon.png"
@@ -100,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3134dab02ee45b29c86d8ef5d7cd566088c570bc6901eec78a62b473319b9d07"
+hash = "3dda058a34855fad435a3882adc0af253b5a3e0212349ab882bddc7155d34c86"
 metafile = true
 
 [[files]]
@@ -115,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/feesh.pw.toml"
-hash = "8e4eb530c5b7b8246ef538f1c5cd4ed8b0f69daf1b296bd940d7761267ef20ad"
+hash = "c102cdfe83f688303e73e140127f874d46a697119998a2ade797246cd9a80196"
 metafile = true
 
 [[files]]
@@ -165,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "6a70c950e1f0952e6c7fabad2a7a146fa6d4a84892eae843ccb643b6701b15c8"
+hash = "f5bcb1eabd56bca59f89b7bee032562ba2d5da42f564a477cfebc48d85a9425b"
 metafile = true
 
 [[files]]
@@ -210,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
+hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
 metafile = true
 
 [[files]]
@@ -235,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "23df5659c917f3e0ba451dd6142e1d41c8381b51890abb39154d550bdc77c29b"
+hash = "361ed2af6105a68a0986702e263289eec7d6155826d76bb3596c81e3d2cc7b30"
 metafile = true
 
 [[files]]
@@ -245,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "95e8d1add25e6ab29782423107438fed8f29e1d43d9cfd3fc2272798005b38ff"
+hash = "09a5aea2a5f0963b41c59fa4481c020abd8d1752a6cf942a4c0edc838a2da916"
 metafile = true
 
 [[files]]
@@ -270,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "07adbf0de8f0e7d677b814ad8c770e5fd738719c15dd80f57bec4d6353d96709"
+hash = "20f4a864b16032908b4f9c47505a7422f01a5b969f200bf153cd06ff9b97ef34"
 metafile = true
 
 [[files]]
@@ -330,12 +334,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "6b051c0e560d83c856507fe5b9e6246067900796a3a57959ab886368387f8f3f"
+hash = "2e304ae69661538a35e211cc74a14bb9f12db35a76bd8fd2a48383aa127b4ed3"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "be3ba2f167edad0cb76aba54c486b11f9103abbb546b02a5b9c4d94697479b2b"
+hash = "2471207bd3aac56c940b0a6cb278cfc50f94ec726eaaa1c6ebb22e859ecf44f4"
 metafile = true
 
 [[files]]
@@ -410,27 +414,27 @@ metafile = true
 
 [[files]]
 file = "packcore/configs/1080p_default_configs.zip"
-hash = "c49416ee4fe9618a60b9b802d75a1f71c17b2df5e7ecdb109347257c3261e45a"
+hash = "2742b138694f7b66ad1a7f1fe9eca24404a76f836bcdf88609cf147eb07dde4d"
 
 [[files]]
 file = "packcore/configs/1080p_default_configs_2x_.zip"
-hash = "b27aa4554a3bea0d0bd5664233b8b555b49c8b418269583beff6cb0df3396047"
+hash = "b07b7283bab8c1a5e54755111bff4876b973cf346209315f3cb20129a0bf64c5"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "65a21f88d5d30024d475562f1b1bc2c56d21ebc9fa5153f3cd890dc8167e562e"
+hash = "6e66f45de427272ee58c2b86fbe8da83d6eeba5eef482dcc935500679b4ea886"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"
-hash = "b08e53f7bf460aa0420b7e143162ef9d8dc753980e3a2aa57675df8062534f6e"
+hash = "5a8fb153db4401ea3559c534b1312c0cbde1287f785acacfcf5bc06819eea3f4"
 
 [[files]]
 file = "packcore/configs/4k_default_configs.zip"
-hash = "b4f71a8d119d36f4b64161ba3bd0c4779fea6c73f6680e513d3c5f9d2135e264"
+hash = "09855e88b33372019b99719e979c957f8f14c179bedb0bfe839d5b9459ec08c7"
 
 [[files]]
 file = "packcore/configs/4k_default_configs_ultrawide_.zip"
-hash = "2eb194bccee2ff0a3b4d32a32d7ccfee6f56d3f1bedd5e287e990b39da4360f5"
+hash = "4ad1b63ab58632eaf680844587fed156675674c097a3fe2a923ee24ecdf4b4f0"
 
 [[files]]
 file = "packcore/markdown/CHANGELOG-v5.0.0-beta.1.md"
@@ -467,6 +471,18 @@ hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
 [[files]]
 file = "packcore/markdown/CHANGELOG-v5.0.2.md"
 hash = "2397e1ba21b96bdd4cb24c9365e2e5b95722aa9bafd0bc8131d3bbfac088aad8"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.3.md"
+hash = "ee93e1c45b565d3328c65dd59c8cbee10af3ade2e433a806bf9ed17fcb5ce266"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.4.md"
+hash = "480f415fe07d5d5c4dc14d972baaa544b673d7a6eca8708cdeb67ee72e5a29ad"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.5.md"
+hash = "bdb9c7cced091ee16eedb7ce04e1cffe70def45d2e281056800e8137ae010890"
 
 [[files]]
 file = "packcore/markdown/config_packs.md"
@@ -513,8 +529,20 @@ file = "packcore/markdown/release-body-v5.0.2.md"
 hash = "2397e1ba21b96bdd4cb24c9365e2e5b95722aa9bafd0bc8131d3bbfac088aad8"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.0.3.md"
+hash = "ee93e1c45b565d3328c65dd59c8cbee10af3ade2e433a806bf9ed17fcb5ce266"
+
+[[files]]
+file = "packcore/markdown/release-body-v5.0.4.md"
+hash = "480f415fe07d5d5c4dc14d972baaa544b673d7a6eca8708cdeb67ee72e5a29ad"
+
+[[files]]
+file = "packcore/markdown/release-body-v5.0.5.md"
+hash = "bdb9c7cced091ee16eedb7ce04e1cffe70def45d2e281056800e8137ae010890"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
-hash = "035f9d523f630c83a2e4b6701fd8f2089d076c597e089f6f25c95fc3b21475aa"
+hash = "1ffaa08c1690bca029a339047b4c6019014734474cd439313f68770bae1ca36f"
 
 [[files]]
 file = "packcore/markdown/welcome.md"
@@ -522,11 +550,16 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "0566febec2e78b18364149f362bff3f6b737c283a88d9ec56c9d734d89211f69"
+hash = "9003539f50a079335e5d6ea38c12e5aafa94a821bcfaaf3ba1e4db5f5134d1ff"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"
 hash = "c40e9b218f42b93acf8b332d467e9fe8f8c6f6d69a37cf7d4a00b3e39017b29f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "6a0f4d71fe2fd9a0775ca018f6f7f7165ec3ce2e9e1b73bf174c5aea6c15d9a9"
 metafile = true
 
 [[files]]
@@ -537,6 +570,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/hypixel-plus.pw.toml"
 hash = "266af69f499c5d2f15026ab15b160f0b3d8eef53c98f43939da40d4e6ec59408"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hypixel-skyblock-legacy.pw.toml"
+hash = "a9e658c34bc710fa7f53097eac2454fb5011fc3f33936d6ee5d906a714f6dec4"
 metafile = true
 
 [[files]]

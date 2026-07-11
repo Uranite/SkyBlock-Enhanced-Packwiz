@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+hash = "41c95eea2813a8fe923ef8033f084cb264c610f549c97bb58db64734c9703c0c"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/marketguard.pw.toml"
-hash = "40bed162795821aaa3cc0c4cda20bd5cb4c875c926e50d50e5327837ca3c4886"
+hash = "a5549ff974598c90ccd14fa99c3c363b9e8b76be423971c2b5565c245a5af0c3"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "361ed2af6105a68a0986702e263289eec7d6155826d76bb3596c81e3d2cc7b30"
+hash = "c3c325070139908d1a896264e873112ddabb3ef30764aba1aae5791f02cefcc2"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "fd7c2116790a000524c81f33ef2536296c6854754f079eabbd6cad604c8119bb"
+hash = "180ada71fd1dbc69327b92247fa3b4c2c7e5567b344709256b105655f234f722"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "2019fc8ce032786c81b3e39f8b35bd8e33b6e0afb2118d092a9a24f118b652bd"
+hash = "12d50ddab679982e34098f0b9a6dd0d1de10f0e61010b847b52475cc22b10f63"
 metafile = true
 
 [[files]]
@@ -339,12 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "2471207bd3aac56c940b0a6cb278cfc50f94ec726eaaa1c6ebb22e859ecf44f4"
+hash = "9e8af28ac47e320a331013d9a00193b1fbf966c7b1b0bd9ca734bcc0fba663e1"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "c4754cb21d75b9c5f004fa1cde390ae3c19f6ec496d7b251263474169d9257f7"
+hash = "fed04d7b2d1eac0ec6ef53e0e96a5ac05eff07c0dc3f1360f4054a5a2927cf29"
 metafile = true
 
 [[files]]
@@ -359,12 +359,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4407571b2d662af195a5f2c440245e1521872cf7ff28ee4a92d02437c828ba6e"
+hash = "76f0c3b0f97c781fab964ec383b5031d780814e63abe7c456354187deaafaae2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e785257258e2811dc4488da78ae8311a249b22c3bdba92b4d6ce5d5ef48939b7"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
@@ -485,6 +485,10 @@ file = "packcore/markdown/CHANGELOG-v5.0.5.md"
 hash = "bdb9c7cced091ee16eedb7ce04e1cffe70def45d2e281056800e8137ae010890"
 
 [[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.6.md"
+hash = "2f77ba34679bd7db29ff1266500896da3741b84406b23f83cc80fd89be6ad6f8"
+
+[[files]]
 file = "packcore/markdown/config_packs.md"
 hash = "a817aa8b29f92152951ae1a3dc1bdea3b3d577c11cf9561fc2fc89eb68e35573"
 
@@ -541,6 +545,10 @@ file = "packcore/markdown/release-body-v5.0.5.md"
 hash = "bdb9c7cced091ee16eedb7ce04e1cffe70def45d2e281056800e8137ae010890"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.0.6.md"
+hash = "2f77ba34679bd7db29ff1266500896da3741b84406b23f83cc80fd89be6ad6f8"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
 hash = "1ffaa08c1690bca029a339047b4c6019014734474cd439313f68770bae1ca36f"
 
@@ -550,7 +558,7 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "9003539f50a079335e5d6ea38c12e5aafa94a821bcfaaf3ba1e4db5f5134d1ff"
+hash = "a6cc4092f859c06beb0b850fa24b065882851ebd25624fe5611d0d73e5983374"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"
@@ -574,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hypixel-skyblock-legacy.pw.toml"
-hash = "a9e658c34bc710fa7f53097eac2454fb5011fc3f33936d6ee5d906a714f6dec4"
+hash = "6da7317d561e9fc1abbf96b022b11b83444ff37dc8fe919457441080d97da6f9"
 metafile = true
 
 [[files]]

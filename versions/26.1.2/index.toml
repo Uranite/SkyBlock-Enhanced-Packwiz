@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "5ca29430108b65844601fe755abd3eabcf03757a1488a23a79457e79b6a15ec0"
+hash = "b702ef4b62cc0e6d5e971b7bb7d3dcca45a66b457f31542936d613cc5a79a7d3"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a03b97bcf5988623a90bb39a519294ad8f507a7f96ba9f34ef73b86b0e7f9ca5"
+hash = "29e7b5bf7606701a6eebe09a1f37a407c38e4a7d2bb31bde6fe04c0c09b47e1e"
 
 [[files]]
 file = "icon.png"
-hash = "f2093301ddeae92849c128a7c140572dfb4ff425814d5a3afdb6b366755d1f3e"
+hash = "464772b5a2d1397bfded545bcf6a975622c0e974b20b820b2d23cbbe83e9a8cb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/btrbz.pw.toml"
-hash = "7b1b54582d543e69e59d64632649e09e7a81a496e75b3c39ef4b4cc2770d40ef"
+hash = "5309925d71e386560e44f9cf7506173716b1efbbb8a948cdc674a0204bf09e43"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-skyrecipes.pw.toml"
-hash = "85a1de1b22f394abe9d11c8a6c208c4fd4854810563866d12a59e08baedb230c"
+hash = "6435ac663a02ab8baa6a64700d696c493d15f018a734d21a85f8d314e17aea8f"
 metafile = true
 
 [[files]]
@@ -155,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
+metafile = true
+
+[[files]]
+file = "mods/inventory-buttons.pw.toml"
+hash = "be264c4cf3bbb7c42e46a477b261fdce06c4f342b3f5f9ef3b3e440b7fbc3423"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "c3c325070139908d1a896264e873112ddabb3ef30764aba1aae5791f02cefcc2"
+hash = "a84cc1a592c271fe0beaf17644ae7426eb632808dac6ab12120dee8068ce89d6"
 metafile = true
 
 [[files]]
@@ -249,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/packcore.pw.toml"
-hash = "09a5aea2a5f0963b41c59fa4481c020abd8d1752a6cf942a4c0edc838a2da916"
+hash = "236bb9afb45069312ff1fded61c4d3566b1400885298de353651564d4187028f"
 metafile = true
 
 [[files]]
@@ -283,13 +288,18 @@ hash = "6e04dc3554552f5966ad5d64d213efe2d853f4c52736db9a7f25c47aa16c3c39"
 metafile = true
 
 [[files]]
+file = "mods/resourcepackcached.pw.toml"
+hash = "5883b1bae9c8f01b1dc112254dddb429070aa0b33c7982264bd64d1d27d6f4d0"
+metafile = true
+
+[[files]]
 file = "mods/reward-claim.pw.toml"
 hash = "e0cc524ca158ee6a268a0baa0ad620f0c3a9347af4ebe187bb391e33a2db0b2e"
 metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "180ada71fd1dbc69327b92247fa3b4c2c7e5567b344709256b105655f234f722"
+hash = "fbd0bfe9eb0612bd2e383803b41575ed43af15d819b38a0b31b645932ee319b3"
 metafile = true
 
 [[files]]
@@ -489,6 +499,10 @@ file = "packcore/markdown/CHANGELOG-v5.0.6.md"
 hash = "2f77ba34679bd7db29ff1266500896da3741b84406b23f83cc80fd89be6ad6f8"
 
 [[files]]
+file = "packcore/markdown/CHANGELOG-v5.0.7.md"
+hash = "9a3122fa6766d95eae16e6b12a307d56db2a6646c656e19af6eb3293d1f574e8"
+
+[[files]]
 file = "packcore/markdown/config_packs.md"
 hash = "a817aa8b29f92152951ae1a3dc1bdea3b3d577c11cf9561fc2fc89eb68e35573"
 
@@ -549,6 +563,10 @@ file = "packcore/markdown/release-body-v5.0.6.md"
 hash = "2f77ba34679bd7db29ff1266500896da3741b84406b23f83cc80fd89be6ad6f8"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.0.7.md"
+hash = "9a3122fa6766d95eae16e6b12a307d56db2a6646c656e19af6eb3293d1f574e8"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
 hash = "1ffaa08c1690bca029a339047b4c6019014734474cd439313f68770bae1ca36f"
 
@@ -558,7 +576,7 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "a6cc4092f859c06beb0b850fa24b065882851ebd25624fe5611d0d73e5983374"
+hash = "ccc0cd014c3bad077197110404b10aa4161adac99aba2a78942a9582cc9a0dc7"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"
@@ -572,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "d36ffc28626fda8c2c8c63850a46cdd53d3166252cc9ac98d0b448afff378a29"
+hash = "6a165562843e47683b09d2cfb2084643457221a1bdf0cc8d11fe7922ee3357e9"
 metafile = true
 
 [[files]]

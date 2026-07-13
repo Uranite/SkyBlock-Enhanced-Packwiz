@@ -1,13 +1,13 @@
 name = "Enhanced SkyRecipes"
-filename = "skyrecipes-0.3.0+26.1.2.jar"
+filename = "skyrecipes-0.3.1+26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q7VEfkvq/versions/NjQtiDts/skyrecipes-0.3.0%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/Q7VEfkvq/versions/fTU5buTn/skyrecipes-0.3.1%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "786f15d1ce656c276785a80f433ac30dd1691c640e846442702feb788fa169076c87ffb73ee1ecb695e198bfd6aac97bf4688c90f6d2ed578b567fe50dd50c5e"
+hash = "f688df6c8b174cb4d818a04e08b082f67c74d848eb2a4e53a027d2af0835ac34e3bddd64f49d93edc3603e122b6e74b9a94fb44044f12e715399f06b62e15c8a"
 
 [update]
 [update.modrinth]
 mod-id = "Q7VEfkvq"
-version = "NjQtiDts"
+version = "fTU5buTn"

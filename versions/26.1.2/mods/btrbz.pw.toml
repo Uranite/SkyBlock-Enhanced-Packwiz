@@ -1,13 +1,13 @@
 name = "BtrBz"
-filename = "btrbz-0.9.0-alpha+26.1.x.jar"
+filename = "btrbz-0.10.0-alpha+26.1.x.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IzWPcaNg/versions/c2dwhi3m/btrbz-0.9.0-alpha%2B26.1.x.jar"
+url = "https://cdn.modrinth.com/data/IzWPcaNg/versions/PUSG1293/btrbz-0.10.0-alpha%2B26.1.x.jar"
 hash-format = "sha512"
-hash = "a61698f0e05ba17e5e6ee2c9c2f6c4948098f84b9c2d4592481f7909d165e7d7ac9d1dc9bf4b0c3538374ef98fb2b35e128eaa51cca6006f1bc9d090f4e6718e"
+hash = "9f96f0c03b5361b68bc25f8201b74a3e80ac7d887fd5492c77b3b35b592871244fbabd315654787c76c7a11019b9fc1e5275ab7b35ba8b7e7ec03f92d3503cf8"
 
 [update]
 [update.modrinth]
 mod-id = "IzWPcaNg"
-version = "c2dwhi3m"
+version = "PUSG1293"

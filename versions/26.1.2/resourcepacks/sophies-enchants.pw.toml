@@ -1,13 +1,13 @@
 name = "Sophie's Hypixel Skyblock Enchants"
-filename = "Sophie's Enchants V2.0.1.zip"
+filename = "Sophie's Enchants V2.0.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XBG9JHVh/versions/MGJKYFL9/Sophie%27s%20Enchants%20V2.0.1.zip"
+url = "https://cdn.modrinth.com/data/XBG9JHVh/versions/dxLoMROG/Sophie%27s%20Enchants%20V2.0.2.zip"
 hash-format = "sha512"
-hash = "1b284776b512a32c375fc35eb977b5a90062b5ce2d1e6622923c4ea7604da12c2e56aeddc3291ae28d945c109fb79a26fa9190dbe983aedeb769b5937efa93b4"
+hash = "8250920a9abc3593c3530be1cfa28d062f17ade106c8e0bd2439e0088ff871b764e62571a94acd2c9723483303ad6ce3a8f4a1d4f303937d6b4c98c969376e6a"
 
 [update]
 [update.modrinth]
 mod-id = "XBG9JHVh"
-version = "MGJKYFL9"
+version = "dxLoMROG"

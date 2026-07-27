@@ -1,0 +1,13 @@
+name = "Enhanced Sound Control"
+filename = "enhancedsoundcontrol-0.1.1+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQ6A3XNE/versions/3Ekj12Qa/enhancedsoundcontrol-0.1.1%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "c1d8675a7dc190974873a29141d7f17ba8bbe3d9d3b19ba4967fb7709003bd075a59dc2055e470ce8896f54dcd6077cd57665740e51f03a41ee9d299ce9b6359"
+
+[update]
+[update.modrinth]
+mod-id = "bQ6A3XNE"
+version = "3Ekj12Qa"

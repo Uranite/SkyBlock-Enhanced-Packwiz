@@ -1,13 +1,13 @@
 name = "Feesh"
-filename = "Feesh-1.10.0+26.1-fabric.jar"
+filename = "Feesh-1.11.0+26.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QCpogurE/versions/OC9hy3A3/Feesh-1.10.0%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/QCpogurE/versions/3QWuScoO/Feesh-1.11.0%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "f96c80d54d324d9c92f65cc8f8afc2fb0a5b93b5231eaa44bde737bad523eea33f94688624002347fdb4a3681e647f17802f82b8b8fa3aca23f4189ff7f92898"
+hash = "d566df09743fdef348add52b1ca4e32bf37def1d385f77c72bffabc1334008f8bab368f07d0b14c091f12a62f647cf89b06cc398d152cf6f57cc72434bc95bda"
 
 [update]
 [update.modrinth]
 mod-id = "QCpogurE"
-version = "OC9hy3A3"
+version = "3QWuScoO"

@@ -6,7 +6,7 @@ hash = "134d2d6a047d3b8cb0f219802683c77f5c021557780aad69c96ddc7d4756fc07"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b6097e84102d9ae6dbd1b02f3756a9bb010a4a992fb10f6c964bd85727199e75"
+hash = "3bb336a3d9b88c963516cf92910fc1ec83520473e504ffb3d5789a3e732bc81e"
 
 [[files]]
 file = "icon.png"
@@ -18,6 +18,16 @@ hash = "98160b81327752e1ae3c2b05df6c001ec1ff7641adf962b694e73c4edb9d5e3e"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "2aa1892b809683f9566fe863329ef92f251c2e31a330345af48ce92a7bfda6a7"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "823bb4a01131e94950f5a20ba2bb03e076fe4bf29810a34e0b54b0ed965ada50"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "94bd72c1c09a8b1c8725988f9bda170cb75a382f8cb55582d1e9e2e570a8ada0"
 metafile = true
@@ -25,11 +35,6 @@ metafile = true
 [[files]]
 file = "mods/better-hypixel-chat.pw.toml"
 hash = "2b3b0f3a6e1851829ba30d517537a0aef160373183a06019e26863cfa9f41a10"
-metafile = true
-
-[[files]]
-file = "mods/better-screens.pw.toml"
-hash = "14ec012adb03b7905f4bb110c1d64ac98c9f12410c79110b63f26b9baf035706"
 metafile = true
 
 [[files]]
@@ -53,18 +58,23 @@ hash = "dcf0e2b89cc16a7ea3262736a6f1cac631bb282dd92b2d8f3b989d5384688233"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "183afb9d10363afd2833a957aeb7ccdfb74aff8c508cf4565bdc5d8eeb020a9a"
-metafile = true
-
-[[files]]
-file = "mods/chatanimation.pw.toml"
-hash = "47f0c2818d82395bbbd0a3fd7f7370291eddc5d846c3d41965ceecc7a0222774"
+file = "mods/chatting.pw.toml"
+hash = "f9340c9a5581288c7bd7dd4234f45bc0715542b54b2111239f4e21937345544d"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/compacting.pw.toml"
+hash = "51f3afa720c0479f231c68c0c12a762a6af42fa9795a6b782b81c4461b356ac1"
+metafile = true
+
+[[files]]
+file = "mods/compose-multiplatform.pw.toml"
+hash = "1b09f535467836add2d3ca113edaeaba29bf0d5464ffcdc0d08da8e90fbfe14c"
 metafile = true
 
 [[files]]
@@ -88,13 +98,13 @@ hash = "78773495609b64dd539a2db03395128f206b75f3fd48922e803213fb5698e69f"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-chat.pw.toml"
-hash = "a11627ee75169453f9bb0fd2ecc04ed305a01255eb27f0077fe67c7e928c5691"
+file = "mods/enhanced-skyrecipes.pw.toml"
+hash = "ebe73642c48afb8a4f361a66cdb4d5b4d8331ce205ef073c800fdf9852901bb6"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-skyrecipes.pw.toml"
-hash = "53040be0da0ab04ccf04b4b7bcb07f68db5e5195eabf6bc4be77fb21db032ff3"
+file = "mods/enhanced-sound-control.pw.toml"
+hash = "0f768f2ec07d7005cff89ab022279bb70e111b07868ef87648270cb5c96aa847"
 metafile = true
 
 [[files]]
@@ -119,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/feesh.pw.toml"
-hash = "c102cdfe83f688303e73e140127f874d46a697119998a2ade797246cd9a80196"
+hash = "99adfd7f26b65230f6b3784919f0155aed130e691fda8c6ac726f29d8f5f0cf2"
 metafile = true
 
 [[files]]
@@ -130,11 +140,6 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "27b6b9b73ba33a9a19687b679eadaf24c769de3f6549e0eba9d471566d884cf0"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "f5bcb1eabd56bca59f89b7bee032562ba2d5da42f564a477cfebc48d85a9425b"
+hash = "e52e00c36bf402ba49b18347028c06a8c74cedf56ef6dc1502a06975e3abcda1"
 metafile = true
 
 [[files]]
@@ -188,23 +193,13 @@ hash = "da435f6743b812f333d2b26dce8faea336a37857af30b6d15855103a273e81da"
 metafile = true
 
 [[files]]
-file = "mods/lighty.pw.toml"
-hash = "a6d6f1918d01a0650936555f60bd235b50705b7466a9d03cf8e27d78f33bf18d"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
-file = "mods/longview.pw.toml"
-hash = "422d5d97a50f21580a42e20e32ea6a34a24bc77c2cb5ccacfa40c3467177dbe3"
-metafile = true
-
-[[files]]
 file = "mods/marketguard.pw.toml"
-hash = "a5549ff974598c90ccd14fa99c3c363b9e8b76be423971c2b5565c245a5af0c3"
+hash = "9f97aa4d07d24177131d44dc10119078b04c40a75af23e38be8a806734e87468"
 metafile = true
 
 [[files]]
@@ -244,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f7ced42749b14be75a71d91736400f3074254e4ccbecb469ff04aad1741e80de"
+hash = "abadfe9a16717e47571700c762009d7b85d08227b6c9a6b86712004af0d9c498"
 metafile = true
 
 [[files]]
@@ -253,18 +248,18 @@ hash = "00d639d8702c33e06fe0f6e64be8bdc4c915d854453c72ec1a2bb784f57a44bc"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "0f758ed7649c1b6773e395ea092b893432934999588c681e873b98b0ca415d33"
+metafile = true
+
+[[files]]
 file = "mods/packcore.pw.toml"
-hash = "b645a9aa755c9aec46b2602f28ac0a372d1e2c50db32f5ae7560b3c6386460a0"
+hash = "e2dbbe8cb2a9a9553892657c859d9b70a318393d2608e7adb76ac58d1ebb26d8"
 metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "44de8b95afa9b4c72c2123ee2cb853657af538ae6a0405ccc0128dd6d5830b86"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
 metafile = true
 
 [[files]]
@@ -304,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaleme.pw.toml"
-hash = "ef6c118c999e5c8c9a51bb97374f7617092782e875885f748140fb49c9d81dc1"
+hash = "112f8e23d82a50649c5ec80c3bfeea0f518bbc81871ce241b25eff1f3b278912"
 metafile = true
 
 [[files]]
@@ -344,12 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "da563c915b80bd390726bfbcf11bc9703d6996d989d893d2fc340db0e26faec9"
+hash = "ad03abcca35882c73722f5e9eb682b47346139c922be2ffedb483fc35be1db8a"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "d26f01518f02f87dc0aefea16665b1c9fe92b5e7888e8e8b719f1c29ad1ede76"
+hash = "1f5665f1ccd3681d99d6a9b9ac99f675dc02ed627342632ee3e146365c9fc4c8"
 metafile = true
 
 [[files]]
@@ -375,11 +370,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
-metafile = true
-
-[[files]]
-file = "mods/sound-controller.pw.toml"
-hash = "dbd6b280ec83a23539cbdb3d57c6b5c3b18d9a4524108093ce784c66559f8a14"
 metafile = true
 
 [[files]]
@@ -424,59 +414,27 @@ metafile = true
 
 [[files]]
 file = "packcore/configs/1080p_default_configs.zip"
-hash = "2742b138694f7b66ad1a7f1fe9eca24404a76f836bcdf88609cf147eb07dde4d"
+hash = "3387901a91190bfc1d6775d131008923b2156394fb1776294c786229947e4053"
 
 [[files]]
 file = "packcore/configs/1080p_default_configs_2x_.zip"
-hash = "3473cdea67a39e8d9bbda2fb49b1b8c53c37f5bf0edbdeb2cb21ad5413ca05d1"
+hash = "cf24f0ae6e03da81f05a83dba62cc9afb3c737b0f8551e3634f7dbe6897d2f64"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs.zip"
-hash = "4088658aefa1fc4e577cc27ec78eb8f184cf42b1eaeff21b5b43f117088f1cc1"
+hash = "db152896b0a0cdeff067579401a3372bb1588aeecacb6a3f20493733d042bd52"
 
 [[files]]
 file = "packcore/configs/1440p_default_configs_ultrawide_.zip"
-hash = "5a8fb153db4401ea3559c534b1312c0cbde1287f785acacfcf5bc06819eea3f4"
+hash = "6850ed847d5100c126ff3589dc14d3e6a2eee63f03bd599c5afe768542469b2a"
 
 [[files]]
 file = "packcore/configs/4k_default_configs.zip"
-hash = "09855e88b33372019b99719e979c957f8f14c179bedb0bfe839d5b9459ec08c7"
+hash = "32ec7068284aae9ca7b7549b4528fe5d8a56e9f375338b4920956d501b2d2d33"
 
 [[files]]
 file = "packcore/configs/4k_default_configs_ultrawide_.zip"
-hash = "4ad1b63ab58632eaf680844587fed156675674c097a3fe2a923ee24ecdf4b4f0"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0-beta.1.md"
-hash = "e302b334bf4d4bb5fb8046434c6d0e98b5ff33c3123eb5ff42612a3fb963f763"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0-beta.2.md"
-hash = "ed4a397a1447557f1df0e89651b0edbbe01ec342d286ca1c088cebab768771d0"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0-beta.3.md"
-hash = "16d127dc07015b2702ae2453a4ebcf4598607328fb51e5fed296785ab7a5cf2b"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0-beta.4.md"
-hash = "72790b1027a011082d7193e763d0e4c85dad87d5a6fbb21e98e85cf2ffd2a9f7"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0-beta.5.md"
-hash = "5ed55d270da4dbd82de45300fdefe7c574cdef5804767168ce7263b8d51c39b0"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0-beta.6.md"
-hash = "e4d280df16434454f33de247ce2725217c83579dbb27b958ff582ccfe8804527"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.0.md"
-hash = "d411a37821bf6091c8dded742295453e422d4a39d209138bebf8bf0c0afcad5b"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.1.md"
-hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
+hash = "28b9d70ae1512f786e7d8aa71a9e39fd6a8d68a4dc84994bd32905d5d2a236fb"
 
 [[files]]
 file = "packcore/markdown/CHANGELOG-v5.0.10.md"
@@ -499,32 +457,20 @@ file = "packcore/markdown/CHANGELOG-v5.0.13.md"
 hash = "2ce49f4bcb956a7f71c1aa8d2d5bd17835cbe85453677826822f7e2213f88ffb"
 
 [[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.2.md"
-hash = "2397e1ba21b96bdd4cb24c9365e2e5b95722aa9bafd0bc8131d3bbfac088aad8"
+file = "packcore/markdown/CHANGELOG-v5.0.14.md"
+hash = "92158f6668f6748215d2ba393a89ce97d689153722ea6e3af2278da24128af06"
 
 [[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.3.md"
-hash = "ee93e1c45b565d3328c65dd59c8cbee10af3ade2e433a806bf9ed17fcb5ce266"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.4.md"
-hash = "480f415fe07d5d5c4dc14d972baaa544b673d7a6eca8708cdeb67ee72e5a29ad"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.5.md"
-hash = "bdb9c7cced091ee16eedb7ce04e1cffe70def45d2e281056800e8137ae010890"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.6.md"
-hash = "2f77ba34679bd7db29ff1266500896da3741b84406b23f83cc80fd89be6ad6f8"
-
-[[files]]
-file = "packcore/markdown/CHANGELOG-v5.0.7.md"
-hash = "9a3122fa6766d95eae16e6b12a307d56db2a6646c656e19af6eb3293d1f574e8"
+file = "packcore/markdown/CHANGELOG-v5.0.15.md"
+hash = "f1ca91e636ddfa9d2ecffa70d95c6c55012139f81413ab0e247251b9260c803e"
 
 [[files]]
 file = "packcore/markdown/CHANGELOG-v5.0.9.md"
 hash = "e80a022d862e22717d765e1602cda90941f8aa6423a9d2470dacdf3506efcb56"
+
+[[files]]
+file = "packcore/markdown/CHANGELOG-v5.1.0-beta.1.md"
+hash = "2b50ceec84b26af2568f1348fa792d5bcbd60a680ad3fc1d38a0c550fa1a5b72"
 
 [[files]]
 file = "packcore/markdown/config_packs.md"
@@ -533,38 +479,6 @@ hash = "a817aa8b29f92152951ae1a3dc1bdea3b3d577c11cf9561fc2fc89eb68e35573"
 [[files]]
 file = "packcore/markdown/performance.md"
 hash = "8ee31e296b613fd9116471627084bd6fd1f65471d7cadfcd0ede733f3959c8de"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0-beta.1.md"
-hash = "e302b334bf4d4bb5fb8046434c6d0e98b5ff33c3123eb5ff42612a3fb963f763"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0-beta.2.md"
-hash = "ed4a397a1447557f1df0e89651b0edbbe01ec342d286ca1c088cebab768771d0"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0-beta.3.md"
-hash = "16d127dc07015b2702ae2453a4ebcf4598607328fb51e5fed296785ab7a5cf2b"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0-beta.4.md"
-hash = "72790b1027a011082d7193e763d0e4c85dad87d5a6fbb21e98e85cf2ffd2a9f7"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0-beta.5.md"
-hash = "5ed55d270da4dbd82de45300fdefe7c574cdef5804767168ce7263b8d51c39b0"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0-beta.6.md"
-hash = "e4d280df16434454f33de247ce2725217c83579dbb27b958ff582ccfe8804527"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.0.md"
-hash = "d411a37821bf6091c8dded742295453e422d4a39d209138bebf8bf0c0afcad5b"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.1.md"
-hash = "19303520100838f07b9c4490874ee3a2ec8fb918bc890c18aa04d0f11342d985"
 
 [[files]]
 file = "packcore/markdown/release-body-v5.0.10.md"
@@ -587,32 +501,20 @@ file = "packcore/markdown/release-body-v5.0.13.md"
 hash = "2ce49f4bcb956a7f71c1aa8d2d5bd17835cbe85453677826822f7e2213f88ffb"
 
 [[files]]
-file = "packcore/markdown/release-body-v5.0.2.md"
-hash = "2397e1ba21b96bdd4cb24c9365e2e5b95722aa9bafd0bc8131d3bbfac088aad8"
+file = "packcore/markdown/release-body-v5.0.14.md"
+hash = "92158f6668f6748215d2ba393a89ce97d689153722ea6e3af2278da24128af06"
 
 [[files]]
-file = "packcore/markdown/release-body-v5.0.3.md"
-hash = "ee93e1c45b565d3328c65dd59c8cbee10af3ade2e433a806bf9ed17fcb5ce266"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.4.md"
-hash = "480f415fe07d5d5c4dc14d972baaa544b673d7a6eca8708cdeb67ee72e5a29ad"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.5.md"
-hash = "bdb9c7cced091ee16eedb7ce04e1cffe70def45d2e281056800e8137ae010890"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.6.md"
-hash = "2f77ba34679bd7db29ff1266500896da3741b84406b23f83cc80fd89be6ad6f8"
-
-[[files]]
-file = "packcore/markdown/release-body-v5.0.7.md"
-hash = "9a3122fa6766d95eae16e6b12a307d56db2a6646c656e19af6eb3293d1f574e8"
+file = "packcore/markdown/release-body-v5.0.15.md"
+hash = "f1ca91e636ddfa9d2ecffa70d95c6c55012139f81413ab0e247251b9260c803e"
 
 [[files]]
 file = "packcore/markdown/release-body-v5.0.9.md"
 hash = "e80a022d862e22717d765e1602cda90941f8aa6423a9d2470dacdf3506efcb56"
+
+[[files]]
+file = "packcore/markdown/release-body-v5.1.0-beta.1.md"
+hash = "2b50ceec84b26af2568f1348fa792d5bcbd60a680ad3fc1d38a0c550fa1a5b72"
 
 [[files]]
 file = "packcore/markdown/resource_packs.md"
@@ -624,11 +526,16 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "ec64e6cfefd92302487c204bd84118021b56ec9d165203acbfecb8833adaa34e"
+hash = "b8dbd371140ab439d04443f7b2e12d11751699af53ebc2f8055fd355019234ad"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"
 hash = "c40e9b218f42b93acf8b332d467e9fe8f8c6f6d69a37cf7d4a00b3e39017b29f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/defrosted_pack.pw.toml"
+hash = "714497c401e54081d0dfbc32a8252871f0bfdbad0d9255058510b229665ffed3"
 metafile = true
 
 [[files]]
@@ -648,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hypixel-skyblock-legacy.pw.toml"
-hash = "04c92c0507702f594cc2ccb3f134976de15841c13130b99084e035834a123a4f"
+hash = "35c119f5693cfe2be25f870280d83c0aadb0c03dc9bceea6b52ac7736b541ef2"
 metafile = true
 
 [[files]]

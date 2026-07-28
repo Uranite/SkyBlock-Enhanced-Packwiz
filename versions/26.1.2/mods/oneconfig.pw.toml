@@ -1,13 +1,13 @@
 name = "OneConfig"
-filename = "OneConfig-26.1-fabric-1.0.9.jar"
+filename = "OneConfig-26.1-fabric-1.0.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AibBIVmj/versions/mOm0lysC/OneConfig-26.1-fabric-1.0.9.jar"
+url = "https://cdn.modrinth.com/data/AibBIVmj/versions/wZ3vI5ae/OneConfig-26.1-fabric-1.0.11.jar"
 hash-format = "sha512"
-hash = "e111a973607b0d2e1ca34a745732982cd8b7c5c8a7b4ba149dcef4d21c568eaaa87f017ba03343a101878797853d9366bc56da569ad2d754c449cf0fea1b2453"
+hash = "7f794a960117f25f6b5288478b09775c5a5657bc0b122875467dcc4481033d9171d74d39bd3a0079c8646f7d2b87e9f20021908c98e8443557400d81172128d0"
 
 [update]
 [update.modrinth]
 mod-id = "AibBIVmj"
-version = "mOm0lysC"
+version = "wZ3vI5ae"

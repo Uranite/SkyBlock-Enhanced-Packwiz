@@ -6,11 +6,11 @@ hash = "134d2d6a047d3b8cb0f219802683c77f5c021557780aad69c96ddc7d4756fc07"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3bb336a3d9b88c963516cf92910fc1ec83520473e504ffb3d5789a3e732bc81e"
+hash = "4c9bb92d98c80c6ab007d2b3361f27b267dd7a1dec8b63c67b5226fef476e2a0"
 
 [[files]]
 file = "icon.png"
-hash = "464772b5a2d1397bfded545bcf6a975622c0e974b20b820b2d23cbbe83e9a8cb"
+hash = "f2093301ddeae92849c128a7c140572dfb4ff425814d5a3afdb6b366755d1f3e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "0f758ed7649c1b6773e395ea092b893432934999588c681e873b98b0ca415d33"
+hash = "54ea7a5a893322494c7c5c7dd59b66d13120432658684b765689b687d6c9bed2"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-enhanced-storage.pw.toml"
-hash = "d19af7017ca3cbd4dcffa5edd3663ed5e13ff8f20796aa3e3119e9f1cfe276b5"
+hash = "28d2703c0574be442f0aa61fc6f98beb00579a6f209d981839ddc62885a1244b"
 metafile = true
 
 [[files]]
@@ -339,12 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "ad03abcca35882c73722f5e9eb682b47346139c922be2ffedb483fc35be1db8a"
+hash = "1cf4c7db6f949665648b68b638735dc5e25800d0c6d66e553f7822f1767059dd"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "1f5665f1ccd3681d99d6a9b9ac99f675dc02ed627342632ee3e146365c9fc4c8"
+hash = "fa18f4b31e21077d36bcc888b12321bf3897b3177e80f0e5dddce726fbe1c81e"
 metafile = true
 
 [[files]]
@@ -473,6 +473,10 @@ file = "packcore/markdown/CHANGELOG-v5.1.0-beta.1.md"
 hash = "2b50ceec84b26af2568f1348fa792d5bcbd60a680ad3fc1d38a0c550fa1a5b72"
 
 [[files]]
+file = "packcore/markdown/CHANGELOG-v5.1.0-beta.2.md"
+hash = "6ecdc70c3ad00b94cf261d6fd9729e82f6e0da681a987db5290ea2837f6a0eb0"
+
+[[files]]
 file = "packcore/markdown/config_packs.md"
 hash = "a817aa8b29f92152951ae1a3dc1bdea3b3d577c11cf9561fc2fc89eb68e35573"
 
@@ -517,6 +521,10 @@ file = "packcore/markdown/release-body-v5.1.0-beta.1.md"
 hash = "2b50ceec84b26af2568f1348fa792d5bcbd60a680ad3fc1d38a0c550fa1a5b72"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.1.0-beta.2.md"
+hash = "6ecdc70c3ad00b94cf261d6fd9729e82f6e0da681a987db5290ea2837f6a0eb0"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
 hash = "1ffaa08c1690bca029a339047b4c6019014734474cd439313f68770bae1ca36f"
 
@@ -526,7 +534,7 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "b8dbd371140ab439d04443f7b2e12d11751699af53ebc2f8055fd355019234ad"
+hash = "08cb7a68e157077db45915185a2892aa39f5ebddec1540e6257ed9934eea2bab"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"

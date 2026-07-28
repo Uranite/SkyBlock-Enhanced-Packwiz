@@ -1,12 +1,10 @@
 # SkyBlock Enhanced - Packwiz
 
-This modpack is heavily based on [SkyBlock-Enhanced-Modpack](https://github.com/KdGaming0/SkyBlock-Enhanced-Modpack) and closely follows it for updates. However, instead of using Pakku for version control and building, it uses **packwiz**. The original repository is heavily bloated, taking up 2.6 GB after cloning due to `.jar` files being committed to its Git history (which isn't a fault of Pakku itself). Since I didn't want to download all that just to add a few mods, I created this clean **packwiz** repository. I also find **packwiz** easier to use than **Pakku**.
-
----
+This modpack is heavily based on [SkyBlock-Enhanced-Modpack](https://github.com/KdGaming0/SkyBlock-Enhanced-Modpack) and closely follows it for updates. However, instead of using Pakku for version control and building, it uses packwiz. The original repository is heavily bloated, taking up 2.6 GB after cloning due to `.jar` files being committed to its Git history (which isn't a fault of Pakku itself). Since I didn't want to download all that just to add a few mods, I created this clean packwiz repository. I also find packwiz easier to use than Pakku.
 
 ## Building From Source
 
-This modpack uses **packwiz** for version control and building. Follow these steps to build it yourself:
+This modpack uses packwiz for version control and building. Follow these steps to build it yourself:
 
 ### Prerequisites
 
@@ -48,13 +46,9 @@ packwiz update --all
 
 **Learn more:** [packwiz Documentation](https://packwiz.infra.link/)
 
----
-
 ## Support the original SkyBlock Enhanced Project
 
 If you want to support the original author, check it out here: [SkyBlock Enhanced on Modrinth](https://modrinth.com/modpack/skyblock-enhanced)
-
----
 
 ## Credits
 

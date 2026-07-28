@@ -1,3 +1,703 @@
+# 🛠 Update 5.1.0-beta.2
+
+## 🔄 Updated
+### Mods
+- **OneConfig**: 26.1-fabric-1.0.9 -> **26.1-fabric-1.0.10**
+- **SkyHanni**: 7.38.0-mc26.1 -> **7.39.0-mc26.1**
+- **Enhanced Storage**: 1.0.1+26.1.2 -> **1.1.0+26.1.2**
+- **Skyblocker**: 6.8.0+26.1.2 -> **6.8.1+26.1.2**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.1.0-beta.1
+
+Time for another big update. This time around I've added and changed out a few mods for improved performance and better features, plus some improvements to the default configs when playing dungeons. If you run into any issues don't hesitate to report them in the Discord server. So, on to the changes:
+
+## Added
+
+**Optimized Block Entities** — replaces Better Block Entities.
+
+**OneConfig** — the OneConfig menu can be opened with `Left Shift`. From there you can see all mods installed and open the config menu for all of them.
+
+- OneConfig has global HUD editor integration for ***Odin, Skyblocker, SkyCubed, SkyHanni*** and OneConfig mods. This lets you edit GUI positions for most HUDs from one menu across different mods. Not all mods are supported, but the main ones are.
+- It also has global settings search, which lets you search for a config options across most mods. Again, not all mods are supported.
+
+**Chatting + Compacting** — replaces Enhanced Chat. Chatting has some improved features compared to Enhanced Chat, so I find it the better option at this moment in time. Compacting was added to replace the compact chat feature in Enhanced Chat, as Chatting doesn't have this. Compacting also works much better with Hypixel chat, where a lot of separator lines are sent.
+
+**Enhanced Sound Control** — replaces Sound Controller. Your Sound Controller config will automatically migrate on update. Enhanced Sound Control also has extra features that Sound Controller doesn't have:
+
+- When you hear a sound you want to edit, just press `N` or do `/soundcontrol`. This will open a menu with recently played sounds, and you can edit them without needing to know the name of the sound.
+- It also has the option to edit sounds per SkyBlock island, so you can for example mute block breaking sounds in the Garden and still keep them the same everywhere else.
+
+**AsyncParticles** — replaces Particle Core, has better performance.
+
+**Async Logger**
+
+## Removed
+
+| Mod                   | Reason                                                                                                                                                                                                                                                |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Better Block Entities | Replaced by Optimized Block Entities                                                                                                                                                                                                                  |
+| Enhanced Chat         | Replaced by Chatting + Compacting                                                                                                                                                                                                                     |
+| Sound Controller      | Replaced by Enhanced Sound Control                                                                                                                                                                                                                    |
+| Particle Core         | Replaced by AsyncParticles                                                                                                                                                                                                                            |
+| Fzzy Config           | Not needed now that Particle Core is removed                                                                                                                                                                                                          |
+| Longview              | Had some incompatibilities with other mods, so I found it was best to remove it for the time being until these get fixed.                                                                                                                             |
+| Wavey Capes           | I found the mod cool, but think most people don't care, and because of that it just added bloat. If you like this mod you can always add it back yourself. (If you want to know how to add mods to the modpack send `!add-mod` in the discord server) |
+
+## Other Changes between 5.0.15 and 5.1.0
+### 🔄 Updated  
+### Mods  
+- **Skyrecipes**: 0.4.3+26.1.2 -> **0.4.4+26.1.2**  
+- **Ixeris**: 4.5.2+26.1.2-fabric -> **4.6.1+26.1.2-fabric**  
+- **Packcore**: 5.0.12+26.1.2 -> **5.1.0+26.1.2**  
+- **Scaleme**: 3.2.1+26.1.2 -> **3.3.0+26.1.2**  
+- **SkyHanni**: 7.37.0-mc26.1 -> **7.38.0-mc26.1**  
+- **Skyblocker**: 6.7.0+26.1.2 -> **6.8.0+26.1.2**
+  
+## Default Config v5.1
+
+Most of Odin config changes were brought to you by fuschen. Thanks for the help.
+
+<details> <summary><b>Click to expand the full config list</b></summary>
+
+### Odin
+
+|Setting|Value|
+|---|---|
+|Invincibility Timer|`On`|
+|Invincibility Timer → Invincibility Timer|`On`|
+|Invincibility Timer → Show in Boss|`On`|
+|Breaker Display|`Off`|
+|Secret Clicked|`On`|
+|Secret Clicked → Style|`Filled Outline`|
+|Secret Clicked → Depth check|`On`|
+|Secret Clicked → Chime Sound|`block.wool.break`|
+|Secret Clicked → Chime Sound Volume|`0.69`|
+|Mage Beam|`On`|
+|Mage Beam → Color|`00DFF9FF`|
+|Mimic|`On`|
+|Melody Message → Progress GUI|`On`|
+|Melody Message → Melody Progress|`On`|
+|Wither Dragons|`On`|
+|Wither Dragons → Solo Debuff on All Splits|`On`|
+|Arrows Device|`On`|
+|Arrows Device → Show Aim Positions|`On`|
+|Simon Says|`On`|
+|Simon Says → Block Wrong Clicks|`On`|
+|Simon Says → Block Wrong on Start|`On`|
+|Extra Stats|`On`|
+|Spirit Bear|`On`|
+|Chat Commands|`On`|
+|Chat Commands → Chat Emotes|`On`|
+|Chat Commands → Odin|`Off`|
+|Chat Commands → Coords (`coords`)|`Off`|
+|Chat Commands → Party transfer (`pt`)|`On`|
+|Chat Commands → Reinvite|`On`|
+|Chat Commands → Kick Offline|`On`|
+
+### Stella
+
+|Setting|Value|
+|---|---|
+|Dungeon Map|`On`|
+|Check for Updates|`Off`|
+
+### SkyHanni
+
+|Setting|Value|
+|---|---|
+|Death Counter Display|`Off`|
+|Personal Compactor Overlay|`Off`|
+|Milestone Display|`Off`|
+
+### Skyblocker
+
+|Setting|Value|
+|---|---|
+|Device Solvers → Solve Simon Says|`Off`|
+|Gyro Overlay → Gyrokinetic Wand Mode|`Circle Outline`|
+|Quick Navigation → Button 4|`/loadout`|
+
+</details>
+
+---
+  
+### 🛠 Troubleshooting & Tips  
+- The first launch after updating may take slightly longer than usual.  
+- If Modrinth does not show the update, refresh the instance page or just wait abit.  
+  
+### 💡 Need Help?  
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.  
+  
+Thanks for using SkyBlock Enhanced!
+
+---
+
+
+# 🛠 Update 5.0.15
+
+## 🔄 Updated
+### Mods
+- **Skyrecipes**: 0.4.3+26.1.2 -> **0.4.4+26.1.2**
+- **SkyHanni**: 7.37.0-mc26.1 -> **7.38.0-mc26.1**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.14
+
+## 🔄 Updated
+### Mods
+- **Skyrecipes**: 0.4.2+26.1.2 -> **0.4.3+26.1.2**
+- **Feesh**: 1.10.0+26.1-fabric -> **1.11.0+26.1-fabric**
+- **SkyBlock Legacy**: old -> **new**
+- **Marketguard**: 1.4.0+26.1.2 -> **1.5.0-beta.1+26.1.2**
+- **SkyHanni**: 7.36.0-mc26.1 -> **7.37.0-mc26.1**
+- **Sodium Extra Fabric**: 0.8.7 -> **0.9.3**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.13
+
+A small patch with a few mod updates and stability improvements.
+
+## 🔄 Updated
+### Mods
+- **Skyrecipes**: 0.4.1+26.1.2 -> **0.4.2+26.1.2**
+- **Reliable Recipe Viewer**: 8.6.3+26.1.2-fabric -> **8.6.4+26.1.2-fabric**
+- **SkyHanni**: 7.35.0-mc26.1 -> **7.36.0-mc26.1**
+- **Yet Another Config Lib**: 3.9.5+26.1-fabric -> **3.9.6+26.1-fabric**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.12
+
+## 🔄 Updated
+### Mods
+- **Btrbz**: 0.9.0-alpha+26.1.x -> **0.10.0-alpha+26.1.x**
+- **Skyrecipes**: 0.3.1+26.1.2 -> **0.4.1+26.1.2**
+- **Gnetum**: 4.4.1+26.1.2-fabric -> **4.5.1+26.1.2-fabric**
+- **Packcore**: 5.0.11+26.1.2 -> **5.0.12+26.1.2**
+- **SkyHanni**: 7.34.0-mc26.1 -> **7.35.0-mc26.1**
+- **Enhanced Storage**: 1.0.0-beta.4+26.1.2 -> **1.0.1+26.1.2**
+- **SkyBlockPv**: 1.8.7-26.1 -> **1.8.8-26.1**
+- **SkyOcean**: 1.17.1-26.1 -> **1.17.2-26.1**
+
+### Resource Packs
+- **Sophie's Enchants**: 2.0.1 -> **2.0.2**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+
+# 🛠 Update 5.0.11
+
+## 🔄 Updated
+### Mods
+- **Fabric Api**: 0.155.0+26.1.2 -> **0.155.2+26.1.2**
+- **Rpc**: 1.2.6+26.1-26.1.2 -> **1.2.7+26.1-26.2**
+- **Enhanced Storage**: 1.0.0-beta.3+26.1.2 -> **1.0.0-beta.4+26.1.2**
+- **Skyblocker**: 6.7.0-beta.1+26.1.2 -> **6.7.0+26.1.2**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.10
+
+## 🔄 Updated
+### Mods
+- **Bbe Fabric**: 1.3.6 -> **1.3.7-beta.1**
+- **Fabric Api**: 0.154.2+26.1.2 -> **0.155.0+26.1.2**
+- **Fabric Language Kotlin**: 1.13.12+kotlin.2.4.0 -> **1.13.13+kotlin.2.4.10**
+- **SkyBlock Legacy**: old -> **new**
+- **Reliable Recipe Viewer**: 8.6.1+26.1.2-fabric -> **8.6.3+26.1.2-fabric**
+- **Enhanced Storage**: 1.0.0-beta.2+26.1.2 -> **1.0.0-beta.3+26.1.2**
+- **Stella**: 1.0.6+26.1-b2 -> **1.0.6+26.1-b3**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.9
+
+## 🔄 Updated
+### Mods
+- **Odin**: 0.2.2 -> **0.2.3**
+- **Packcore**: 5.0.10+26.1.2 -> **5.0.11+26.1.2**
+- **Scamscreener**: 2.5.2+26.1.2 -> **2.6.0+26.1.2**
+- **Skyblock Enhancements**: 1.1.10+26.1.2 -> **1.1.11+26.1.2**
+- **SkyHanni**: 7.33.0-mc26.1 -> **7.34.0-mc26.1**
+- **Enhanced Storage**: 1.0.0-beta.1+26.1.2 -> **1.0.0-beta.2+26.1.2**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.8
+
+## 🔄 Updated
+### Mods
+- **CrashAssistant Fabric**: 26.1-1.11.10 -> **26.1-1.11.11**
+- **Enhanced Storage**: 0.8.2+26.1.2 -> **1.0.0-beta.1+26.1.2**
+
+### Resource Packs
+- **FurSky Reborn**: v2.0-pre4 -> **v2.0-pre5**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.7
+
+An update bringing in some new mods along with the usual maintenance updates.
+
+## ➕ReAdded
+### Mods
+- **Iris** (This actually happened in the last update, but I forgot to add it to the changelog)
+
+## ➕ Added
+### Mods
+- **Inventory Buttons** (tip: this mod supports importing your old Firmament layout if you don't want to set it up again)
+- **ResourcePackCached**
+
+## 🔄 Updated
+### Mods
+- **Bbe Fabric**: 1.3.5 -> **1.3.6**
+- **Skyrecipes**: 0.3.0+26.1.2 -> **0.3.1+26.1.2**
+- **Packcore**: 5.0.8+26.1.2 -> **5.0.10+26.1.2**
+- **SkyHanni**: 7.32.0-mc26.1 -> **7.33.0-mc26.1**
+- **Btrbz**: 0.8.0-alpha+26.1.x -> **0.9.0-alpha+26.1.x** (Note this update added breaking changes to the Bookmarks & Alerts, so any saved Bookmarks or Alerts will be reset and you need to readd them)
+- **Reliable Recipe Viewer**: 8.5.0+26.1.2-fabric -> **8.6.1+26.1.2-fabric**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+
+
+
+
+
+
+
+
+# 🛠 Update 5.0.7
+
+An update bringing in some new mods along with the usual maintenance updates.
+
+## ➕ReAdded
+### Mods
+- **Iris** (This actually happened in the last update, but I forgot to add it to the changelog)
+
+## ➕ Added
+### Mods
+- **Inventory Buttons** (tip: this mod supports importing your old Firmament layout if you don't want to set it up again)
+- **ResourcePackCached**
+
+## 🔄 Updated
+### Mods
+- **Bbe Fabric**: 1.3.5 -> **1.3.6**
+- **Skyrecipes**: 0.3.0+26.1.2 -> **0.3.1+26.1.2**
+- **Packcore**: 5.0.8+26.1.2 -> **5.0.10+26.1.2**
+- **Reliable Recipe Viewer**: 8.5.0+26.1.2-fabric -> **8.6.0+26.1.2-fabric**
+- **SkyHanni**: 7.32.0-mc26.1 -> **7.33.0-mc26.1**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.7
+
+An update bringing in some new mods along with the usual maintenance updates.
+
+## ➕ReAdded
+### Mods
+- **Iris** (This actually happened in the last update, but I forgot to add it to the changelog)
+
+## ➕ Added
+### Mods
+- **Inventory Buttons** (tip: this mod supports importing your old Firmament layout if you don't want to set it up again)
+- **ResourcePackCached**
+
+## 🔄 Updated
+### Mods
+- **Bbe Fabric**: 1.3.5 -> **1.3.6**
+- **Skyrecipes**: 0.3.0+26.1.2 -> **0.3.1+26.1.2**
+- **Packcore**: 5.0.8+26.1.2 -> **5.0.10+26.1.2**
+- **Reliable Recipe Viewer**: 8.5.0+26.1.2-fabric -> **8.6.0+26.1.2-fabric**
+- **SkyHanni**: 7.32.0-mc26.1 -> **7.33.0-mc26.1**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Modrinth does not show the update, refresh the instance page or just wait abit.
+
+### 💡 Need Help?
+Join us on **[Discord](https://discord.gg/pdwxyjTta7)** or **[Fluxer](https://fluxer.gg/3jJy9cp6)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.6
+
+## 🔄 Updated
+### Mods
+- **Marketguard**: 1.3.2+26.1.2 -> **1.4.0+26.1.2**
+- **Reliable Recipe Viewer**: 8.4.2+26.1.2-fabric -> **8.5.0+26.1.2-fabric**
+- **SkyBlockPv**: 1.8.6-26.1 -> **1.8.7-26.1**
+- **SkyOcean**: 1.17.0-26.1 -> **1.17.1-26.1**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** (recommended) or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.5
+
+## 🔄 Updated
+### Mods
+- **SkyBlock Legacy**: old -> **new**
+- **Modmenu**: 18.0.0-beta.1 -> **18.0.0**
+- **SkyHanni**: 7.31.0-mc26.1 -> **7.32.0-mc26.1**
+- **Skyblocker**: 6.6.0+26.1.2 -> **6.7.0-beta.1+26.1.2**
+- **Sodium Fabric**: 0.9.1-beta.4 -> **0.9.1**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** (recommended) or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.4
+
+The Hypixel SkyBlock Legacy resource pack has been added as an option to revert back to vanilla items after the new Hypixel texture pack came out today. The resource pack menu will also reopen on startup after the update to let you select it.
+## Added
+### Resource Packs
+- Faithful 32x
+- Hypixel SkyBlock Legacy
+
+Also there may be bugs with some of the mods in the pack after the Skyblock update. If so, please be patient and wait for the mods to update. A new modpack update will be out as soon as the mods update.
+### Current know issues:
+
+Skyhanni (taken from skyhanni discord): 
+- Features not working due to icon changes for stats and such, e.g.:
+    - Farming Fortune detection
+    - Lottery/Sky Mall
+    - Pest cooldown detection(?)
+- Rift
+    - Vampire Slayer features
+        - Fix Sound Spam
+    - Wilted Berberis helper
+
+Skyblocker (taken from skyblocker discord):
+- Wardrobe Keybinds - Will be changed to work in /armor and /equipment.
+- Equipment in Inventory
+- Fancy Status Bars & Vanilla Mana Bar
+
+## 🔄 Updated
+### Mods
+- **Packcore**: 5.0.6+26.1.2 -> **5.0.8+26.1.2**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** (recommended) or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.3
+
+## 🔄 Updated
+### Mods
+- **Fabric Api**: 0.154.0+26.1.2 -> **0.154.2+26.1.2**
+- **Feesh**: 1.9.0+26.1-fabric -> **1.10.0+26.1-fabric**
+- **Ixeris**: 4.5.1+26.1.2-fabric -> **4.5.2+26.1.2-fabric**
+- **Scamscreener**: 2.5.1+26.1.2 -> **2.5.2+26.1.2**
+- **SkyHanni**: 7.30.0-mc26.1 -> **7.31.0-mc26.1**
+- **SkyOcean**: 1.16.1-26.1 -> **1.17.0-26.1**
+- **Sodium Fabric**: 0.9.1-beta.3 -> **0.9.1-beta.4**
+
+## 🔄 Downgraded
+### Mods
+- **Sodium Extra**: 0.9.1 -> **0.8.7** (Fixes a compatibility issue with SkyHanni and other mods when using the Hide Particles option.)
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** (recommended) or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.2
+
+## 🔄 Updated
+### Mods
+- **Catharsis**: 1.0.0-beta.19-26.1 -> **1.0.0-beta.20-26.1**
+- **Skyrecipes**: 0.2.5+26.1.2 -> **0.3.0+26.1.2**
+- **Modernfix**: 5.27.17-build.2 -> **5.27.19-build.1**
+- **Packcore**: 5.0.5+26.1.2 -> **5.0.6+26.1.2**
+- **Scamscreener**: 2.5.0+26.1.2 -> **2.5.1+26.1.2**
+- **Skyblock Enhancements**: 1.1.7+26.1.2 -> **1.1.10+26.1.2**
+- **Skyblock Dark UI 1.15 For 1.21.11+**: 1.15 -> **1.16**
+- **SBO**: 0.4.2+26.1.2-fabric -> **0.4.3+26.1.2-fabric**
+- **Skyblocker**: 6.5.3+26.1.2 -> **6.6.0+26.1.2**
+- **Uilib Fabric**: 20.1.3 -> **20.1.4**
+- **SkyHanni**: 7.29.0-mc26.1 -> **7.30.0-mc26.1**
+
+## Default Config v5.0.4
+
+- Enabled Skyblocker AH and BZ price in tooltip
+
+## Default Config v5.0.3
+
+- Disabled SBO Spade Guess 
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.2
+
+## 🔄 Updated
+### Mods
+- **Catharsis**: 1.0.0-beta.19-26.1 -> **1.0.0-beta.20-26.1**
+- **Skyrecipes**: 0.2.5+26.1.2 -> **0.3.0+26.1.2**
+- **Modernfix**: 5.27.17-build.2 -> **5.27.19-build.1**
+- **Packcore**: 5.0.5+26.1.2 -> **5.0.6+26.1.2**
+- **Scamscreener**: 2.5.0+26.1.2 -> **2.5.1+26.1.2**
+- **Skyblock Enhancements**: 1.1.7+26.1.2 -> **1.1.10+26.1.2**
+- **Skyblock Dark UI 1.15 For 1.21.11+**: 1.15 -> **1.16**
+- **SBO**: 0.4.2+26.1.2-fabric -> **0.4.3+26.1.2-fabric**
+- **Skyblocker**: 6.5.3+26.1.2 -> **6.6.0+26.1.2**
+- **Uilib Fabric**: 20.1.3 -> **20.1.4**
+
+## Default Config v5.0.4
+
+- Enabled Skyblocker AH and BZ price in tooltip
+
+## Default Config v5.0.3
+
+- Disabled SBO Spade Guess 
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.1
+
+## 🔄 Updated
+### Mods
+- **Packcore**: 5.0.4+26.1.2 -> **5.0.5+26.1.2**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** (recommended) or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
+# 🛠 Update 5.0.0
+
+## Removed
+### Mods
+- BetterF3
+
+> This mod doesn't really have a big use case anymore. Since Minecraft 1.21.11, you can customize the F3 screen in vanilla, and let's be honest, how often do you even open the debug screen? Since the mod is rarely used, I've come to the conclusion that it's just adding unnecessary bloat. If you still want it, you can always add it back yourself.
+
+## 🔄 Updated
+### Mods
+- **Skyrecipes**: 0.2.4+26.1.2 -> **0.2.5+26.1.2**
+- **Fabric Api**: 0.153.0+26.1.2 -> **0.154.0+26.1.2**
+- **ImmediatelyFast Fabric**: 1.15.2+26.1.2 -> **1.15.3+26.1**
+- **Scamscreener**: 2.4.3+26.1.2 -> **2.5.0+26.1.2**
+- **Skyblock Enhancements**: 1.1.6+26.1.2 -> **1.1.7+26.1.2**
+- **SkyHanni**: 7.28.0-mc26.1 -> **7.29.0-mc26.1**
+- **Enhanced Storage**: 0.8.1+26.1.2 -> **0.8.2+26.1.2**
+- **Sodium Fabric**: 0.9.1-beta.2 -> **0.9.1-beta.3**
+
+---
+
+### 🛠 Troubleshooting & Tips
+- The first launch after updating may take slightly longer than usual.
+- If Minecraft appears frozen while loading, wait a moment before closing it.
+- If Modrinth does not show the update, refresh the instance page.
+
+### 💡 Need Help?
+Join us on **[Fluxer](https://fluxer.gg/3jJy9cp6)** or **[Discord](https://discord.gg/pdwxyjTta7)** for support.
+
+Thanks for using SkyBlock Enhanced!
+
+---
+
 # 🛠 Update 5.0.0-beta.6
 
 ## Removed

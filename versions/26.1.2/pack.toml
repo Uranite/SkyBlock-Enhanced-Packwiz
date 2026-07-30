@@ -1,12 +1,12 @@
 name = "SkyBlock Enhanced"
-version = "5.1.0-beta.2"
+version = "5.1.0-beta.3"
 description = "The only Hypixel SkyBlock modpack you need. Built for modern Minecraft — 60+ optimized mods, a guided setup wizard, and a config system no other pack comes close to match."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "67fd40ac2e02cbd66b60bbf067539c5124c83920096074534b791f2f810d8673"
+hash = "ee7c8d436471c8229f00d6b21b024892e7e6ad3618248f99d36ee3e46d7a5589"
 
 [versions]
 fabric = "0.19.3"

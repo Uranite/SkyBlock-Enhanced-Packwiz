@@ -6,7 +6,7 @@ hash = "134d2d6a047d3b8cb0f219802683c77f5c021557780aad69c96ddc7d4756fc07"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "4c9bb92d98c80c6ab007d2b3361f27b267dd7a1dec8b63c67b5226fef476e2a0"
+hash = "a1e4d61d3a4d1087b47b4a420ea927e1e6ce0f5357367327d1fa6d5d9317d3f7"
 
 [[files]]
 file = "icon.png"
@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "823bb4a01131e94950f5a20ba2bb03e076fe4bf29810a34e0b54b0ed965ada50"
+hash = "91cfc6200c769a03d2d1843dc2c6c8381f2b581f1f84497dd24526d617fa3398"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatting.pw.toml"
-hash = "f9340c9a5581288c7bd7dd4234f45bc0715542b54b2111239f4e21937345544d"
+hash = "fc1f4465abd0ebcf76e7310c78701e23e56533c72fdcde784acbd0deae273a02"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
+hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "54ea7a5a893322494c7c5c7dd59b66d13120432658684b765689b687d6c9bed2"
+hash = "c1c71b62ef2bffa8c548abf9afba1d7b1f5bbde3f04aa4b2ad8ecf5a7e5610e8"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "20f4a864b16032908b4f9c47505a7422f01a5b969f200bf153cd06ff9b97ef34"
+hash = "373b25deb7c66cd0f8603a5db92818a6d21f9b692c45c062f7a0aa936400434c"
 metafile = true
 
 [[files]]
@@ -477,6 +477,10 @@ file = "packcore/markdown/CHANGELOG-v5.1.0-beta.2.md"
 hash = "6ecdc70c3ad00b94cf261d6fd9729e82f6e0da681a987db5290ea2837f6a0eb0"
 
 [[files]]
+file = "packcore/markdown/CHANGELOG-v5.1.0-beta.3.md"
+hash = "e68434cb120d261c9daf933341e773c90a231a9ea8f491704f0eea2437e0e98b"
+
+[[files]]
 file = "packcore/markdown/config_packs.md"
 hash = "a817aa8b29f92152951ae1a3dc1bdea3b3d577c11cf9561fc2fc89eb68e35573"
 
@@ -525,6 +529,10 @@ file = "packcore/markdown/release-body-v5.1.0-beta.2.md"
 hash = "6ecdc70c3ad00b94cf261d6fd9729e82f6e0da681a987db5290ea2837f6a0eb0"
 
 [[files]]
+file = "packcore/markdown/release-body-v5.1.0-beta.3.md"
+hash = "e68434cb120d261c9daf933341e773c90a231a9ea8f491704f0eea2437e0e98b"
+
+[[files]]
 file = "packcore/markdown/resource_packs.md"
 hash = "1ffaa08c1690bca029a339047b4c6019014734474cd439313f68770bae1ca36f"
 
@@ -534,7 +542,7 @@ hash = "828ad854c3434edbf41cd24d0372fbc2cc54a8e5838bdab391925fc9a210edc9"
 
 [[files]]
 file = "packcore/modpack.json"
-hash = "08cb7a68e157077db45915185a2892aa39f5ebddec1540e6257ed9934eea2bab"
+hash = "beff84f8d3ea8cdc21eb5798779152c3bd424ab729c0c1dfe05c88c11b919481"
 
 [[files]]
 file = "resourcepacks/dark-mode-skyblock.pw.toml"

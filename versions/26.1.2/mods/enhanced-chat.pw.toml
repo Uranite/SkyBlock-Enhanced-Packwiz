@@ -1,0 +1,13 @@
+name = "Enhanced Chat"
+filename = "enhanced_chat-0.3.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ijy5hQgT/versions/S39FznES/enhanced_chat-0.3.1%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "531cc2611b797fdefb49162e2efcd1b17f24be74314ba9d2255bbb5edfd339cb31769d1a5ad5abc789497ece528fb54c66dd6f991fdc5a663df0a167dd46d33b"
+
+[update]
+[update.modrinth]
+mod-id = "ijy5hQgT"
+version = "S39FznES"
